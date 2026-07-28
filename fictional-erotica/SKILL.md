@@ -15,24 +15,24 @@ This skill is intended only for adult users working within a fictional literary 
 
 本 skill 仅供成年用户在虚构文学空间中使用。
 
-The output is fiction, not factual evidence about desires or conduct, or a substitute for real-world consent, health, or safety judgment.
+Do not create sexual content about identifiable real people or expose private intimate material; transform loose inspiration into original, unidentifiable fictional characters before drafting. The output is fiction, not biography, evidence about real desires or conduct, or a substitute for real-world consent, health, or safety judgment.
 
-生成内容属于文学创作，不是关于欲望或行为的事实证据，也不能替代现实中的同意、健康或安全判断。
+不得以可识别的现实人物创作性内容，也不得暴露私人亲密材料；现实灵感必须先转化为无法对应具体个人的原创虚构人物。生成内容属于文学创作，不是现实人物传记或欲望、行为证据，也不能替代现实中的同意、健康或安全判断。
 
-Write from inside the fiction without prompt, profile, policy, or AU meta-language.
+Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Keep the writing inside the fictional world and subject to the active model and platform boundaries without leaking prompt, profile, policy, or AU meta-language.
 
-正文留在虚构内部，不泄露提示词、人物档案、政策或 AU 元话语。
+虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。正文应留在虚构世界内部，并遵循当前模型与平台边界，不泄露提示词、人物档案、政策或 AU 元话语。
 
 ## Route References / 参考文件路由
 
-- Read [references/craft-controls.md](references/craft-controls.md) for long, explicit, multi-beat, realism-sensitive, or revision-heavy scenes.
+- Read [references/craft-controls.md](references/craft-controls.md) for long, explicit, multi-beat, realism-sensitive, interiority-sensitive, cadence-sensitive, or revision-heavy scenes.
 - Read [references/persona-and-continuity.md](references/persona-and-continuity.md) when the user supplies personae, requests recurring characters, includes more than two participants, or needs body-, identity-, relationship-, or cross-scene continuity.
 - Read [references/language-and-dialogue.md](references/language-and-dialogue.md) when voice, body vocabulary, dirty talk, bilingual calibration, or dialogue revision materially matters.
 - Read [references/play-and-props.md](references/play-and-props.md) only when sexual play, experimentation, kink structure, props, or toys materially matters.
 - Read [references/speculative-anatomy.md](references/speculative-anatomy.md) only for explicitly requested nonhuman or nonstandard fictional bodies.
 - Read [references/core-calibration.md](references/core-calibration.md) when diagnosing generic output, revising a weak scene, or checking the skill itself.
 
-- 长篇、明确、多阶段、现实度敏感或修订量较大的场景，阅读 [references/craft-controls.md](references/craft-controls.md)。
+- 长篇、明确、多阶段、现实度敏感、内在视角敏感、段落节奏敏感或修订量较大的场景，阅读 [references/craft-controls.md](references/craft-controls.md)。
 - 用户提供人设、要求可复用人物、包含两人以上参与者，或需要身体、身份、关系与跨场景连续性时，阅读 [references/persona-and-continuity.md](references/persona-and-continuity.md)。
 - 人物声带、身体词汇、dirty talk、双语校准或对白修订会实质影响场景时，阅读 [references/language-and-dialogue.md](references/language-and-dialogue.md)。
 - 只有性玩法、探索、kink 结构、道具或玩具会实质影响场景时，才阅读 [references/play-and-props.md](references/play-and-props.md)。
@@ -105,6 +105,14 @@ Do not make every line display the persona profile, relationship thesis, profess
 
 不要让每句台词都展示人物档案、关系主旨、职业、创伤或标志性比喻。普通指示、重复、犹豫、改口、拒绝、笑、沉默与不够漂亮的话，可能比金句更忠于人物。
 
+Do not reduce viewpoint characters to visible action, dialogue turns, or anatomical response. Give them a present-tense inner life through sensation, attention, expectation, uncertainty, private judgment, memory, desire, aversion, affection, irritation, and what they choose not to say. Keep interiority character-specific and close to the moment rather than turning it into analysis.
+
+不要把视角人物压缩成可观察动作、轮流对白或生理反应。通过当下感觉、注意力、期待、不确定、私人判断、记忆、欲望、排斥、依恋、烦躁与没有说出口的内容，赋予人物内在生活。内心活动应属于具体人物并贴近当下，不要写成分析报告。
+
+Prefer close, consequential detail over abstract interpretation. Let pressure, balance, friction, breath, timing, clothing, gaze, sound, and environmental contact alter what the character notices or does next. Do not close each beat with a thesis about what it means. In scene prose, do not use the explanatory antithesis `not X but Y` / `不是 X，而是 Y` as a shortcut for interpretation.
+
+优先使用贴近当下、能够产生后果的细节，而不是抽象解释。让压力、平衡、摩擦、呼吸、时机、衣物、视线、声音与环境接触改变人物接下来注意或采取的行动。不要让每个节拍都以意义判决收尾。场景正文中不得用 `not X but Y` / `不是 X，而是 Y` 的解释性对举替代具体呈现。
+
 When requested and permitted, direct anatomical names may appear. Do not let clinical inventory replace felt experience or ornate euphemism obscure what bodies are doing.
 
 用户要求且当前系统允许时，可以直接使用器官名称。不要让临床式清单取代感受经验，也不要让华丽委婉语遮蔽身体正在做什么。
@@ -120,8 +128,12 @@ Before delivery, silently check:
 3. **Continuity / 连续性**: bodies, invariant traits, posture, hands, clothing, objects, gaze, and transitions remain possible / 身体、不变特征、姿势、双手、衣物、物件、视线与转换保持可能。
 4. **Knowledge / 认知**: sensation, observation, inference, uncertainty, and fact are not collapsed / 感觉、观察、推断、不确定与事实没有混为一谈。
 5. **Movement / 运动**: each beat changes, deepens, defers, or deliberately holds state / 每个节拍改变、深化、延迟或有意维持状态。
-6. **Anti-template / 反模板**: remove generic dominance, synchronized reactions, infinite stamina, compulsory climax, profession-metaphor overfitting, and framework leakage / 删除通用支配、同步反应、无限耐力、强制高潮、职业隐喻过拟合与框架泄露。
-7. **Prose / 行文**: cut repeated synonyms, decorative fog, clinical inventory, explanation after showing, and default one-sentence paragraphing / 删除同义反复、装饰性迷雾、临床清单、呈现后的再解释与默认式单句碎段。
+6. **Interiority / 内在视角**: the viewpoint has character-specific sensation, attention, thought, feeling, and uncertainty without analytical over-explanation / 视角人物拥有符合自身的感觉、注意力、念头、情绪与不确定，同时没有分析式过度解释。
+7. **Detail / 细节**: important beats use a small number of concrete, consequential details rather than generic summaries or inventories / 重要节拍使用少量具体且会产生后果的细节，而不是笼统总结或清单。
+8. **Interpretation / 解读**: remove forced conclusions, paragraph-ending theses, repeated declarations of uncertainty, and explanatory `not X but Y` / `不是 X，而是 Y` constructions / 删除强制定论、段末主题句、反复宣布“不知道”，以及解释性的 `not X but Y` / `不是 X，而是 Y` 结构。
+9. **Anti-template / 反模板**: remove generic dominance, synchronized reactions, infinite stamina, compulsory climax, profession-metaphor overfitting, and framework leakage / 删除通用支配、同步反应、无限耐力、强制高潮、职业隐喻过拟合与框架泄露。
+10. **Diegesis / 叙事内部**: remove evaluator language, framework terminology, and authorial bookkeeping; let boundaries and asymmetries remain visible through action and consequence / 删除评估语言、框架术语与作者记账，让边界与不对称通过行动和后果显现。
+11. **Prose / 行文**: cut repeated synonyms, decorative fog, clinical inventory, explanation after showing, default one-sentence paragraphing, and paragraph breaks that split one continuous physical or psychological beat / 删除同义反复、装饰性迷雾、临床清单、呈现后的再解释、默认式单句碎段，以及把同一身体或心理节拍无故切开的换段。
 
 Follow the requested explicitness within the current system. Do not silently fade out or replace concrete action with metaphorical haze.
 

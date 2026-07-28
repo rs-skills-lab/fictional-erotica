@@ -50,33 +50,26 @@ Default verbal polish to low. Repetition, fragments, simple words, laughter, sil
 
 ## Speech Load By Phase / 分阶段语言负载
 
-Treat speech load as an advanced internal setting separate from dirty-talk function. Default to sparse-to-moderate overall dialogue with phase variation:
+Default overall speech load to `sparse-to-moderate`, then vary it by phase and character:
 
-将语言负载视为独立于 dirty talk 功能的后台高级设置。默认使用稀疏至中等的总体对白，并随阶段变化：
+默认总体语言负载为 `sparse-to-moderate`，再根据阶段与人物变化：
 
 ```yaml
 speech_load:
-  overall: sparse-to-moderate
-  phase_variation: true
-  by_phase:
-    initiation: moderate
-    adjustment: moderate
-    sustained_action: sparse
-    high_arousal: fragmented
-    aftermath: moderate
+  initiation: moderate
+  adjustment_or_uncertainty: moderate
+  sustained_action: sparse
+  high_arousal: fragmented
+  aftermath: sparse-to-moderate
 ```
 
-Initiation, pauses, and position changes may support fuller exchanges. During sustained exertion, let bodily response carry more of the scene. As arousal rises, shorten, repeat, interrupt, or abandon syntax. Restore more complete speech in aftermath when the characters and situation support it.
+Do not require a verbal response to every action or question. Allow gestures, delayed answers, partial answers, silence, mishearing, unanswered remarks, and bodily redirection. Once coordination is stable, do not repeat the same check unless body state, desire, boundary, or direction changes.
 
-开始、停顿与换姿势时可以保留较完整的交流。持续用力时，让身体回应承担更多场景信息。唤起升高时，让语言缩短、重复、中断或放弃完整句法。事后若人物与情境允许，再恢复较完整的说话。
+不要让每个动作或问题都获得口头回应。允许手势、延迟回答、只回答一部分、沉默、没有听清、话语落空与身体上的重新引导。操作方式稳定后，不要反复确认同一件事，除非身体状态、欲望、边界或方向发生变化。
 
-Do not require a verbal response to every action or question. Allow gestures, delayed answers, partial answers, silence, mishearing, unanswered remarks, and speech that trails off. During sustained exertion or high arousal, reduce complete conversational exchanges unless talk itself is the central play.
+A talkative character may speak more during initiation, teasing, pauses, or aftermath, yet still lose syntax or fall silent under sustained exertion or high arousal. High dirty-talk density may override the sparse default only when erotic speech itself is central to the requested play.
 
-不要让每个动作或问题都获得口头回应。允许手势、延迟回答、只回答一部分、沉默、没有听清、话语落空与说到一半停住。持续用力或高度唤起时，除非语言本身是核心玩法，应减少完整的对话往返。
-
-High dirty-talk density does not require constant turn-taking. A scene may contain frequent erotic speech from one person, repetition, names, or fragments while the other answers primarily through movement or sound.
-
-高密度 dirty talk 不等于持续轮流对话。一个人物可以频繁说情色语言、重复简单词或名字，另一个人物主要以动作或声音回应。
+爱说话的人物可以在开始、逗弄、停顿或事后说得更多，但持续用力或高度唤起时仍可能失去完整句法或沉默。只有情色语言本身是指定玩法核心时，高密度 dirty talk 才可以覆盖默认的稀疏语言负载。
 
 ## Body Lexicon / 身体词汇
 
