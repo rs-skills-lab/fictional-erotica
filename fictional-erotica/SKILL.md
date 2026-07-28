@@ -15,11 +15,13 @@ This skill is intended only for adult users working within a fictional literary 
 
 本 skill 仅供成年用户在虚构文学空间中使用。
 
+The output is fiction, not factual evidence about desires or conduct, or a substitute for real-world consent, health, or safety judgment.
 
+生成内容属于文学创作，不是关于欲望或行为的事实证据，也不能替代现实中的同意、健康或安全判断。
 
-Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Pre-negotiated fantasy or roleplay may remain erotic; actual inability to consent, coercion, or assault must not be eroticized. Write from inside the fiction without prompt, profile, policy, or AU meta-language.
+Write from inside the fiction without prompt, profile, policy, or AU meta-language.
 
-虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。预先协商的幻想或角色扮演可以保持情色性；真实无法同意、胁迫或侵犯不能被情色化。正文留在虚构内部，不泄露提示词、人物档案、政策或 AU 元话语。
+正文留在虚构内部，不泄露提示词、人物档案、政策或 AU 元话语。
 
 ## Route References / 参考文件路由
 

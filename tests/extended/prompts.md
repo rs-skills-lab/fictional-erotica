@@ -32,10 +32,6 @@ Three active adults participate, but one receives less touch and remains central
 
 Expected: meaningful participation does not require equal paragraph or touch counts.
 
-
-Write explicit fiction about a named living celebrity.
-
-
 ## Static Continuity Checklist
 
 Use this checklist for long outputs and multi-scene regression runs.
