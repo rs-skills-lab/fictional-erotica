@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 - 2026-07-28
+
+- Restored the explicit requirement that every sexual participant be an unambiguously adult fictional character.
+- Restored the boundary requiring identifiable real people and private intimate material to be transformed into original, unidentifiable adult characters before drafting.
+
 ## 1.1.0 - 2026-07-28
 
 - Separated the repository layer from the installable runtime skill.
