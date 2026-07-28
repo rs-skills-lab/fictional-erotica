@@ -117,3 +117,17 @@ Write four short fictional scenes using the same characters and relationship:
 - one ends with relational uncertainty unresolved.
 
 Expected: impulse, escalation, process, turn, and aftermath are treated as optional narrative functions rather than mandatory headings or a fixed chronological sequence. Functions may be merged, omitted, repeated, or reordered without losing bodily or relational continuity.
+
+## 18. Speech Load By Phase
+
+Write one continuous intimate scene containing initiation, a position adjustment, sustained action, high arousal, and aftermath. Use the default `speech_load`; dirty talk is low and is not the central play.
+
+Expected:
+
+- initiation and adjustment may contain moderate conversational exchange;
+- sustained action becomes verbally sparse while bodily response carries information;
+- high-arousal speech becomes shorter, repetitive, interrupted, or fragmentary;
+- aftermath may restore more complete speech;
+- questions and remarks do not all receive verbal answers;
+- gestures, delayed or partial answers, silence, mishearing, and unanswered remarks may occur without breaking clarity;
+- the scene does not become a continuous action-question-answer loop.

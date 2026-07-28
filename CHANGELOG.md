@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.4 - 2026-07-28
+
+- Added an internal speech-load profile that varies dialogue density and completeness by scene phase.
+- Allowed gestures, delayed or partial answers, silence, mishearing, and unanswered remarks to replace automatic verbal turn-taking.
+- Added a core regression test for phase-sensitive speech load.
+
 ## 1.1.3 - 2026-07-28
 
 - Kept runtime instructions focused on fiction craft while deferring content limits to the active model and platform.

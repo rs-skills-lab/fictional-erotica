@@ -8,6 +8,7 @@ Use this reference when voice, body vocabulary, dirty talk, bilingual calibratio
 
 - Ordinary speech / 普通语言
 - Sexual speech / 性场景语言
+- Speech load by phase / 分阶段语言负载
 - Body lexicon / 身体词汇
 - Chinese and English calibration / 中英文校准
 
@@ -46,6 +47,36 @@ Coordination includes practical direction and checking; erotic talk includes des
 Default verbal polish to low. Repetition, fragments, simple words, laughter, silence, and failed syntax are valid. Keep intense speech generally shorter than narration unless a character is deliberately performing.
 
 语言打磨度默认较低。重复、碎句、简单词、笑、沉默与句法失效都有效。除非人物正在刻意表演，高强度状态中的话语通常应短于叙述。
+
+## Speech Load By Phase / 分阶段语言负载
+
+Treat speech load as an advanced internal setting separate from dirty-talk function. Default to sparse-to-moderate overall dialogue with phase variation:
+
+将语言负载视为独立于 dirty talk 功能的后台高级设置。默认使用稀疏至中等的总体对白，并随阶段变化：
+
+```yaml
+speech_load:
+  overall: sparse-to-moderate
+  phase_variation: true
+  by_phase:
+    initiation: moderate
+    adjustment: moderate
+    sustained_action: sparse
+    high_arousal: fragmented
+    aftermath: moderate
+```
+
+Initiation, pauses, and position changes may support fuller exchanges. During sustained exertion, let bodily response carry more of the scene. As arousal rises, shorten, repeat, interrupt, or abandon syntax. Restore more complete speech in aftermath when the characters and situation support it.
+
+开始、停顿与换姿势时可以保留较完整的交流。持续用力时，让身体回应承担更多场景信息。唤起升高时，让语言缩短、重复、中断或放弃完整句法。事后若人物与情境允许，再恢复较完整的说话。
+
+Do not require a verbal response to every action or question. Allow gestures, delayed answers, partial answers, silence, mishearing, unanswered remarks, and speech that trails off. During sustained exertion or high arousal, reduce complete conversational exchanges unless talk itself is the central play.
+
+不要让每个动作或问题都获得口头回应。允许手势、延迟回答、只回答一部分、沉默、没有听清、话语落空与说到一半停住。持续用力或高度唤起时，除非语言本身是核心玩法，应减少完整的对话往返。
+
+High dirty-talk density does not require constant turn-taking. A scene may contain frequent erotic speech from one person, repetition, names, or fragments while the other answers primarily through movement or sound.
+
+高密度 dirty talk 不等于持续轮流对话。一个人物可以频繁说情色语言、重复简单词或名字，另一个人物主要以动作或声音回应。
 
 ## Body Lexicon / 身体词汇
 
