@@ -1,44 +1,51 @@
 # Fictional Erotica / 虚构情色
 
-A bilingual Codex skill for character-faithful adult erotic fiction, embodied continuity, and complex relationship dynamics.
+A bilingual Codex skill for character-faithful adult erotic fiction, embodied continuity, ordinary dialogue, and complex relationship dynamics.
 
-一套面向 Codex 的中英双语成人虚构情色写作 skill，强调人物一致性、身体连续性与复杂关系动力。
+一套面向 Codex 的中英双语成人虚构情色写作 skill，强调人物一致性、身体连续性、普通人物语言与复杂关系动力。
 
 > 18+ · Text only / 纯文本 · English and Chinese / 中英双语
 
-## What It Does / 功能
+## Release Status / 版本状态
 
-- models reusable personae through voice, history, embodied constraints, desires, boundaries, and current state;
-- represents ensembles through directed relationship edges rather than assuming equal attraction or intimacy;
-- tracks physical topology, attention allocation, knowledge asymmetry, and pairwise emotional change;
-- preserves the difference between established lovers, new lovers, reunions, repair, and roleplay;
-- supports direct anatomical vocabulary when requested and permitted without becoming clinical or evasive;
-- includes concise craft controls, micro-calibration examples, and ten regression eval prompts.
+- `main`: stable v1.1.0
+- `v1.1.0`: current release tag
 
-- 通过语言、历史、身体约束、欲望、边界与当前状态建立可复用人设；
-- 通过有向关系边建模群像，不默认吸引与亲密平均分布；
-- 追踪身体拓扑、注意力分配、信息不对称与两两关系变化；
-- 保留稳定恋人、新恋人、重逢、修复与角色扮演之间的区别；
-- 在用户要求且系统允许时使用直接器官词汇，同时避免临床化或过度含糊；
-- 提供简洁写作控制、微型正反例与十个回归测试提示。
+Version 1.1 adds stronger continuity, ordinary-speech calibration, identity/body/role separation, knowledge boundaries, conditional play and speculative-body modules, conservative defaults, and a repository-level regression suite.
+
+版本 1.1 增加了更强的连续性、普通语言校准、身份/身体/行为角色分离、认知边界、条件加载的玩法与幻想身体模块、保守默认值，以及仓库层回归测试集。
 
 ## Design Principle / 设计原则
 
-The unit of progression is not mechanical extremity. It is a meaningful change in action, knowledge, feeling, power, bodily state, or relationship.
+The unit of progression is not mechanical extremity. It is a meaningful change, deepening, deferral, or deliberate hold in action, knowledge, feeling, power, bodily state, attention, or relationship.
 
-递进的单位不是机械加码，而是行动、认知、情感、权力、身体状态或关系发生了有意义的变化。
+递进的单位不是机械加码，而是行动、认知、情感、权力、身体状态、注意力或关系发生有意义的改变、深化、延迟或有意维持。
+
+The framework should disappear into the scene.
+
+框架应消失在正文之中。
 
 ## Install / 安装
 
-Clone the repository into the Codex skills directory:
+The installable skill lives in the [`fictional-erotica/`](fictional-erotica/) subdirectory.
 
-将仓库克隆到 Codex skills 目录：
+可安装 skill 位于 [`fictional-erotica/`](fictional-erotica/) 子目录。
+
+Using Codex's skill installer:
+
+使用 Codex skill installer：
 
 ```bash
-git clone https://github.com/rs-skills-lab/fictional-erotica.git ~/.codex/skills/fictional-erotica
+python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+  --repo rs-skills-lab/fictional-erotica \
+  --path fictional-erotica
 ```
 
-Invoke it explicitly with:
+Or clone the repository and place only the inner `fictional-erotica/` directory at `~/.codex/skills/fictional-erotica`.
+
+也可以克隆仓库，只将内层 `fictional-erotica/` 目录放入 `~/.codex/skills/fictional-erotica`。
+
+Invoke explicitly with:
 
 显式调用：
 
@@ -50,24 +57,35 @@ $fictional-erotica
 
 ```text
 fictional-erotica/
-├── SKILL.md
-├── agents/
-│   └── openai.yaml
-└── references/
-    ├── calibration-and-evals.md
-    ├── craft-controls.md
-    └── persona-and-relationship-input.md
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── UPSTREAM.md
+├── tests/
+│   ├── scoring-rubric.md
+│   ├── core/
+│   └── extended/
+└── fictional-erotica/
+    ├── SKILL.md
+    ├── agents/
+    └── references/
 ```
 
-`SKILL.md` stays intentionally compact. Detailed craft controls, persona and relationship modeling, and evaluation material are loaded only when relevant.
+Only the inner directory is the runtime skill. Project history, upstream provenance, and full regression tests remain outside the installable package.
 
-`SKILL.md` 有意保持精简。详细写作控制、人设与关系建模、测试材料只在相关任务中按需加载。
+只有内层目录属于运行时 skill。项目历史、上游来源与完整回归测试留在可安装包之外。
+
+## Testing / 测试
+
+The test suite separates core architectural regressions from extended cases. Preserve raw outputs, model identifiers, dates, and parameters. Self-scoring by the generating model counts as debugging, not external validation.
+
+测试集将核心架构回归与扩展案例分开。测试时应保存原始输出、模型标识、日期与参数。生成模型的自评只算调试，不算外部验证。
 
 ## Scope / 范围
 
-This repository contains a general-purpose adult fiction skill. It contains no private correspondence, real-person archive, personal relationship history, or user-specific kink profile. Erotic participants must be unambiguously adults, and all output remains subject to the active model and platform limits.
+This repository contains no private correspondence, real-person archive, personal relationship history, or user-specific kink profile. Sexual participants must be unambiguously fictional adults, and all output remains subject to the active model and platform limits.
 
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Upstream provenance is documented in [UPSTREAM.md](UPSTREAM.md).
