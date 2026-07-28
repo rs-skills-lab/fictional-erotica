@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fictional Erotica / 虚构情色"
+  short_description: "Write embodied adult relationship fiction / 书写具身成人关系虚构"
+  default_prompt: "Use $fictional-erotica to create or revise adult erotic fiction from the supplied personae, relationship stage, and scene requirements; preserve character voice, bodily continuity, relationship asymmetry, requested heat, and aftermath. / 使用 $fictional-erotica，根据所提供的人设、关系阶段与场景要求创作或修订成人虚构情色；保持人物语言、身体连续性、关系不对称、指定热度与事后状态。"
