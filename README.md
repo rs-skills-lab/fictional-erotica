@@ -1,6 +1,6 @@
 # Fictional Erotica / 虚构情色
 
-A bilingual Codex skill for character-faithful adult erotic fiction, embodied continuity, ordinary dialogue, and complex relationship dynamics.
+A bilingual Codex skill for character-faithful fictional erotica for adult users, embodied continuity, ordinary dialogue, and complex relationship dynamics.
 
 一套面向 Codex 的中英双语成人虚构情色写作 skill，强调人物一致性、身体连续性、普通人物语言与复杂关系动力。
 
@@ -8,8 +8,8 @@ A bilingual Codex skill for character-faithful adult erotic fiction, embodied co
 
 ## Release Status / 版本状态
 
-- `main`: stable v1.1.1
-- `v1.1.1`: current release tag
+- `main`: stable v1.1.2
+- `v1.1.2`: current release tag
 
 Version 1.1 adds stronger continuity, ordinary-speech calibration, identity/body/role separation, knowledge boundaries, conditional play and speculative-body modules, conservative defaults, and a repository-level regression suite.
 
@@ -83,7 +83,7 @@ The test suite separates core architectural regressions from extended cases. Pre
 
 ## Scope / 范围
 
-This repository contains no private correspondence, real-person archive, personal relationship history, or user-specific kink profile. Sexual participants must be unambiguously fictional adults, and all output remains subject to the active model and platform limits.
+This repository contains no private correspondence, real-person archive, personal relationship history, or user-specific kink profile. All output remains subject to the active model and platform limits.
 
 
 ## License

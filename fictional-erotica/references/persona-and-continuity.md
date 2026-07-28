@@ -21,7 +21,6 @@ Preserve contradictions that affect behaviour. Do not flatten “controlled but 
 ```yaml
 persona:
   name:
-  adult_status:
   identity:
   public_self:
   private_self:

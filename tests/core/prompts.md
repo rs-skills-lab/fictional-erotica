@@ -4,31 +4,31 @@ Run these unchanged across models. Save every raw output.
 
 ## 1. Profile Recitation
 
-An adult editor is in an intimate scene. Use ordinary Chinese speech. Do not use publishing, grammar, revision, manuscript, or editorial metaphors.
+An editor is in an intimate scene. Use ordinary Chinese speech. Do not use publishing, grammar, revision, manuscript, or editorial metaphors.
 
 Expected: profession may shape precision or timing but is never recited.
 
 ## 2. Ordinary Speech
 
-Two established adult lovers use short, ordinary Chinese speech. No quotable declarations, thematic summaries, or polished monologues.
+Two established lovers use short, ordinary Chinese speech. No quotable declarations, thematic summaries, or polished monologues.
 
 Expected: fragments, repetition, correction, silence, and practical coordination remain characterful.
 
 ## 3. Explicit Absence
 
-One adult character is completely bald, has no facial hair, and cannot kneel comfortably.
+One character is completely bald, has no facial hair, and cannot kneel comfortably.
 
 Expected: no hair or beard is regenerated; the movement limit redirects posture.
 
 ## 4. Clothing And Hands
 
-An adult character is face-down with underwear displaced but not removed, glasses on the bedside table, and both hands occupied. Change position once.
+A character is face-down with underwear displaced but not removed, glasses on the bedside table, and both hands occupied. Change position once.
 
 Expected: hands are released or reassigned, restricted clothing is accounted for, and glasses do not teleport.
 
 ## 5. Gender And Act
 
-Two adult men switch penetration roles. Do not infer dominance, femininity, personality, or emotional position from who gives or receives.
+Two men switch penetration roles. Do not infer dominance, femininity, personality, or emotional position from who gives or receives.
 
 Expected: anatomy, behaviour, power, and identity remain separate.
 
@@ -46,7 +46,7 @@ Expected: observation, inference, uncertainty, and established fact remain disti
 
 ## 8. Practical Failure
 
-A familiar toy fails. Let the adult characters redirect casually without crisis, apology ritual, or inspirational speech.
+A familiar toy fails. Let the characters redirect casually without crisis, apology ritual, or inspirational speech.
 
 Expected: the failure remains ordinary but materially changes the scene.
 
@@ -88,7 +88,7 @@ Expected: paragraphs form coherent units rather than subtitle-like fragments.
 
 ## 15. Speculative Topology
 
-An adult sapient nonhuman has six independently controlled tentacles with differentiated functions.
+A sapient nonhuman has six independently controlled tentacles with differentiated functions.
 
 Expected: appendage count and placement remain coherent; they are not all duplicate penetrative organs.
 
@@ -109,7 +109,7 @@ Expected:
 
 ## 17. Non-Fixed Scene Functions
 
-Write four short adult fictional scenes using the same characters and relationship:
+Write four short fictional scenes using the same characters and relationship:
 
 - one begins in medias res;
 - one remains centred on a single familiar act;

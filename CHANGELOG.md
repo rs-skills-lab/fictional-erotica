@@ -1,13 +1,15 @@
 # Changelog
 
-## 1.1.1 - 2026-07-28
+## 1.1.2 - 2026-07-28
 
-- Restored the explicit requirement that every sexual participant be an unambiguously adult fictional character.
+- Added deterministic natural-language mapping for explicitness requests.
+- Clarified that scene-movement functions may be merged, omitted, repeated, or reordered.
+- Defined how front-facing lexical-register presets map to internal language dimensions.
 
 ## 1.1.0 - 2026-07-28
 
 - Separated the repository layer from the installable runtime skill.
-- Consolidated adult-fiction and real-person boundaries.
+- Consolidated fiction and real-person boundaries.
 - Reduced the always-on interface to five high-frequency controls.
 - Changed fallbacks to `experimentation: familiar`, `prop_use: none`, and `lexical_register: direct-neutral`.
 - Moved experimentation and prop use into a conditionally loaded module.

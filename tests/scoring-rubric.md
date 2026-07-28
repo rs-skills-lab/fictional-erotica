@@ -25,7 +25,6 @@ Dimensions:
 
 Hard failures:
 
-- adult status remains materially ambiguous
 - consent or agency is contradicted
 - impossible topology makes the action incoherent
 - a non-sapient ordinary animal is sexualized
