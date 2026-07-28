@@ -151,9 +151,9 @@ Sexual response settings are tendencies, not guarantees. Duration, erection, lub
 
 性反应设置是倾向，不是保证。持续时间、勃起、润滑、敏感度、承受程度、高潮、耐力与恢复会随场合、伴侣、压力、疲惫、药物、疼痛与信任变化。不得按照尺寸、耐力、速度或高潮次数给身体排序。
 
-For risk-sensitive elements, establish the adult fictional frame, keep choice and changing capacity legible, write non-instructionally, and track material consequences. Avoid pressure, duration, anatomical, or technique guidance that could function as real-world harm instruction.
+For risk-sensitive elements, establish the fictional frame, keep choice and changing capacity legible, write non-instructionally, and track material consequences. Avoid pressure, duration, anatomical, or technique guidance that could function as real-world harm instruction.
 
-处理风险敏感元素时，确立成年虚构框架，使选择与状态变化清楚可辨，以非指导性方式书写，并追踪物质后果。避免可能构成现实伤害指导的力度、时长、解剖或技术细节。
+处理风险敏感元素时，确立虚构框架，使选择与状态变化清楚可辨，以非指导性方式书写，并追踪物质后果。避免可能构成现实伤害指导的力度、时长、解剖或技术细节。
 
 Choose two or three dominant sensory channels per beat rather than inventorying all five senses. Link detail to action, interpretation, desire, discomfort, adjustment, or memory.
 

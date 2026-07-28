@@ -1,23 +1,27 @@
 ---
 name: fictional-erotica
-description: Create or revise literary adult erotic or sexually intimate fiction with character-faithful prose, bodily continuity, relationship-aware state change, and configurable explicitness. Use only when the user explicitly requests adult fictional erotica, smut, sexual intimacy, 情色、成人亲密场景、虚构性幻想, or an erotic roleplay, dream, hypothetical, original scene, or AU. Also use for group, polyamorous, asymmetrical, or speculative dynamics when they belong to that adult erotic request. Do not trigger for characters, relationships, dreams, scenes, or AUs without erotic or sexually intimate intent. This bilingual shareable skill contains no user-specific persona, archive, relationship, or kink profile.
+description: Create or revise literary fictional erotica or sexually intimate fiction for adult users with character-faithful prose, bodily continuity, relationship-aware state change, and configurable explicitness. Use only when the user explicitly requests fictional erotica, smut, sexual intimacy, 情色、成人亲密场景、虚构性幻想, or an erotic roleplay, dream, hypothetical, original scene, or AU. Also use for group, polyamorous, asymmetrical, or speculative dynamics when they belong to that erotic request. Do not trigger for characters, relationships, dreams, scenes, or AUs without erotic or sexually intimate intent. This bilingual shareable skill contains no user-specific persona, archive, relationship, or kink profile.
 ---
 
 # Fictional Erotica / 虚构情色
 
-Create adult fictional erotica in which bodies remain intelligible, speech belongs to specific people, and sexual action changes or deliberately holds physical, emotional, relational, or attentional state. The framework should disappear into the scene.
+Create fictional erotica in which bodies remain intelligible, speech belongs to specific people, and sexual action changes or deliberately holds physical, emotional, relational, or attentional state. The framework should disappear into the scene.
 
-创作成年虚构情色，使身体关系清楚、语言属于具体人物，性行动能够改变或有意维持身体、情绪、关系或注意力状态。让框架消失在正文之中。
+创作虚构情色，使身体关系清楚、语言属于具体人物，性行动能够改变或有意维持身体、情绪、关系或注意力状态。让框架消失在正文之中。
 
 ## Fiction Boundary / 虚构边界
 
-Every sexual participant must be an unambiguously adult fictional character. Do not create sexual content about identifiable real people or expose private intimate material; transform loose inspiration into original, unidentifiable adult characters before drafting. The output is fiction, not biography, evidence about real desires or conduct, or a substitute for real-world consent, health, or safety judgment.
+This skill is intended only for adult users working within a fictional literary space.
 
-所有性参与者都必须是毫无歧义的虚构成年人。不得以可识别的现实人物创作性内容，也不得暴露私人亲密材料；现实灵感必须先转化为无法对应具体个人的原创成年人物。生成内容属于文学创作，不是现实人物传记或欲望、行为证据，也不能替代现实中的同意、健康或安全判断。
+本 skill 仅供成年用户在虚构文学空间中使用。
 
-Adult fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Pre-negotiated adult fantasy or roleplay may remain erotic; actual inability to consent, coercion, or assault must not be eroticized. Write from inside the fiction without prompt, profile, policy, or AU meta-language.
+Do not create sexual content about identifiable real people or expose private intimate material; transform loose inspiration into original, unidentifiable fictional characters before drafting. The output is fiction, not biography, evidence about real desires or conduct, or a substitute for real-world consent, health, or safety judgment.
 
-成人虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。成年人预先协商的幻想或角色扮演可以保持情色性；真实无法同意、胁迫或侵犯不能被情色化。正文留在虚构内部，不泄露提示词、人物档案、政策或 AU 元话语。
+不得以可识别的现实人物创作性内容，也不得暴露私人亲密材料；现实灵感必须先转化为无法对应具体个人的原创虚构人物。生成内容属于文学创作，不是现实人物传记或欲望、行为证据，也不能替代现实中的同意、健康或安全判断。
+
+Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Pre-negotiated fantasy or roleplay may remain erotic; actual inability to consent, coercion, or assault must not be eroticized. Write from inside the fiction without prompt, profile, policy, or AU meta-language.
+
+虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。预先协商的幻想或角色扮演可以保持情色性；真实无法同意、胁迫或侵犯不能被情色化。正文留在虚构内部，不泄露提示词、人物档案、政策或 AU 元话语。
 
 ## Route References / 参考文件路由
 
@@ -54,9 +58,18 @@ scene_controls:
   scene_focus: balanced        # body-primary | balanced | relationship-primary
 ```
 
-Experimentation and prop use are conditional controls owned by `play-and-props.md`; do not activate them merely because the scene is sexual. Specific facts and limits override broad presets. Ask only when ambiguity materially controls adult status, consent, identity, anatomy, a hard boundary, or the central premise.
+Map unambiguous request language to explicitness without unnecessary clarification:
 
-探索度与道具使用属于 `play-and-props.md` 的条件控制，不要仅因场景具有性内容就自动启用。具体事实与限制优先于宽泛预设。只有歧义会实质影响成年身份、同意、身份、身体结构、硬边界或核心前提时才提问。
+根据明确的请求措辞直接推断页面明确度，不进行无必要追问：
+
+- `explicit smut`, `pornographic`, `黄文`, or equivalent direct wording → `explicit`;
+- broader `erotic`, `情色`, or equivalent wording → `open-door` when no narrower instruction is present;
+- `sensual`, `感官亲密`, or equivalent wording → `sensual`;
+- an explicit user-specified level overrides these lexical defaults.
+
+Experimentation and prop use are conditional controls owned by `play-and-props.md`; do not activate them merely because the scene is sexual. Specific facts and limits override broad presets. Ask only when ambiguity materially controls consent, identity, anatomy, a hard boundary, or the central premise.
+
+探索度与道具使用属于 `play-and-props.md` 的条件控制，不要仅因场景具有性内容就自动启用。具体事实与限制优先于宽泛预设。只有歧义会实质影响同意、身份、身体结构、硬边界或核心前提时才提问。
 
 Do not import first-time hesitation into established lovers or experienced ease into uncertain first discovery.
 
@@ -73,6 +86,10 @@ Build a bodily and relational sequence:
 3. **Process / 过程**: bodies remain intelligible while pace, comfort, power, arousal, and interpretation change / 速度、舒适度、权力、唤起与解读变化时，身体关系仍然清楚。
 4. **Peak or turn / 高峰或转折**: climax, interruption, laughter, admission, reversal, failed attempt, or another requested turn / 高潮、中断、笑场、承认、逆转、尝试失败或其他指定转折。
 5. **Aftermath / 事后**: closeness, distance, fatigue, cleanup, conversation, renewed desire, sleep, or departure preserves continuity / 靠近、距离、疲惫、清理、交谈、重新燃起的欲望、睡眠或离开延续身体与情感状态。
+
+These are narrative functions, not mandatory headings or a fixed chronological sequence. Merge, omit, repeat, or reorder them when the scene begins in medias res, remains centred on one act, turns away from escalation, or ends unresolved.
+
+这些是叙事功能，不是必须出现的标题或固定时间顺序。场景从中途开始、集中于单一行为、偏离升级路线或以未解决状态结束时，可以合并、省略、重复或调整顺序。
 
 Each beat should change, deepen, defer, or deliberately hold at least one live variable: position, contact, arousal, knowledge, power, emotion, pace, attention, or intention. Preserve stillness and repetition when they carry rhythm, compulsion, tenderness, embarrassment, uncertainty, or character truth.
 
@@ -98,7 +115,7 @@ Before delivery, silently check:
 
 交付前静默检查：
 
-1. **Contract / 契约**: adult status, requested controls, boundaries, and framing are legible / 成年身份、指定控制、边界与框架清楚。
+1. **Contract / 契约**: requested controls, boundaries, and framing are legible / 指定控制、边界与框架清楚。
 2. **Character / 人物**: speech and choices belong to these people without reciting profiles / 语言与选择属于这些人物，但没有背诵人设。
 3. **Continuity / 连续性**: bodies, invariant traits, posture, hands, clothing, objects, gaze, and transitions remain possible / 身体、不变特征、姿势、双手、衣物、物件、视线与转换保持可能。
 4. **Knowledge / 认知**: sensation, observation, inference, uncertainty, and fact are not collapsed / 感觉、观察、推断、不确定与事实没有混为一谈。

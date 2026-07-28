@@ -61,6 +61,42 @@ body_lexicon:
   speaker_specificity: generic | character-specific | relationship-specific
 ```
 
+Map the front-facing `lexical_register` presets to these internal dimensions:
+
+将前台 `lexical_register` 预设映射到以下内部维度：
+
+```yaml
+lexical_register_presets:
+  indirect-literary:
+    referential_explicitness: indirect
+    register: stylized
+    metaphor_density: low-to-medium
+  identifiable-neutral:
+    referential_explicitness: identifiable
+    register: neutral
+    metaphor_density: low
+  direct-neutral:
+    referential_explicitness: direct
+    register: neutral
+    metaphor_density: low
+  direct-colloquial:
+    referential_explicitness: direct
+    register: colloquial
+    metaphor_density: low
+  direct-raw:
+    referential_explicitness: direct
+    register: raw
+    metaphor_density: none-to-low
+  stylized:
+    referential_explicitness: identifiable
+    register: stylized
+    metaphor_density: medium
+```
+
+These are defaults, not rigid word lists. Character- or relationship-specific vocabulary may override a preset while preserving its overall register.
+
+这些是默认映射，不是僵硬词表。人物或关系特定词汇可以覆盖预设，但应保持其总体语域。
+
 Narrator and character vocabulary may differ. Vocabulary may shift with partner, arousal, public or private context, power play, conflict, or aftermath. Directness is not a fixed word list.
 
 叙述者与人物可以使用不同词汇。词汇可以随伴侣、唤起、公开或私下情境、权力游戏、冲突或事后状态变化。直白不是固定词表。

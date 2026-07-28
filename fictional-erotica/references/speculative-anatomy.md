@@ -11,9 +11,9 @@ speculative_anatomy:
 
 ## Participation Boundary / 参与边界
 
-All sexual participants must be explicitly adult, sapient fictional beings capable of meaningful agency and communication. Do not sexualize ordinary or non-sapient animals.
+Sexual participants must be sapient fictional beings capable of meaningful agency and communication. Do not sexualize ordinary or non-sapient animals.
 
-所有性参与者必须是明确成年的、有智慧的虚构存在，并能够表达具有意义的意愿与选择。不得将普通动物或无充分智慧的生物性化。
+性参与者必须是有智慧的虚构存在，并能够表达具有意义的意愿与选择。不得将普通动物或无充分智慧的生物性化。
 
 Nonhuman form does not remove anatomy, consent, boundaries, capacity, physical topology, or character identity.
 
@@ -30,7 +30,6 @@ speculative_anatomy:
   enabled: true
   species_or_form:
   cognition: fully_sapient
-  adult_status:
   body_plan:
     humanoid_core:
     additional_appendages:
