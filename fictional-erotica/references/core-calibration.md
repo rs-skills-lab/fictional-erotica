@@ -128,6 +128,117 @@ The scene acknowledges the mishap and redirects.
 
 场景承认问题，然后普通改道。
 
+
+## Meta Leakage / 元语言泄露
+
+**Weak / 弱**
+
+> The scene did not assign him a compensatory climax, and the asymmetrical relationship remained intact.
+>
+> 场景没有为他安排补偿式高潮，关系不对称也得到了维持。
+
+The narrator recites an evaluation result instead of remaining inside the fiction.
+
+叙述者在宣读评估结果，而不是留在虚构内部。
+
+**Stronger / 较强**
+
+> She leaned back into one man's chest while keeping hold of the other's hand. He stayed where he was, thumb moving once across her knuckles before becoming still.
+>
+> 她向后靠进一个人的怀里，手却仍握着另一个人。他没有靠近，只用拇指擦过她的指节，随后停在那里。
+
+Asymmetry and restraint remain visible through action without analytical summary.
+
+不对称与克制通过行动显现，不需要分析性总结。
+
+## Fragmented Paragraphs / 碎段
+
+**Weak / 弱**
+
+> He touched her waist.
+>
+> She leaned back.
+>
+> His hand moved lower.
+>
+> She inhaled.
+
+One continuous beat is cut into subtitle-like units.
+
+同一个连续节拍被切成字幕式小块。
+
+**Stronger / 较强**
+
+> He settled a hand at her waist, and she leaned back before she had decided whether she meant to. When his palm moved lower, her breath caught; the surprise irritated her almost as much as the touch pleased her, so she covered his hand with her own instead of asking him to stop.
+>
+> 他的手落在她腰间，她还没想清自己是不是愿意，身体已经向后靠了过去。掌心继续往下时，她呼吸一滞；那点意外几乎和快感一样让她烦躁，于是她用自己的手盖住他，却没有叫他停。
+
+Action, sensation, thought, emotion, and choice form one coherent paragraph.
+
+动作、感觉、念头、情绪与选择构成一个完整段落。
+
+## Interiority / 内在视角
+
+**Weak / 弱**
+
+> She was aroused and emotionally conflicted.
+
+A summary names states without giving them a character-specific form.
+
+总结直接命名状态，却没有赋予它属于人物的形式。
+
+**Stronger / 较强**
+
+> She wanted him closer and resented that he had noticed. The contradiction felt stupid; she held his wrist anyway, not pulling it nearer, not letting it go.
+>
+> 她想让他靠近，又恼火他居然看出来了。这个矛盾蠢得让她不愿承认，她还是握住了他的手腕，没有往自己身边拉，也没有放开。
+
+The inner life remains immediate, partial, and enacted.
+
+内心经验贴近当下、不完全自明，并通过动作继续存在。
+
+## Interpretive Closure / 强制解释收尾
+
+**Weak / 弱**
+
+> He understood that her pause was not refusal but uncertainty. He still did not know why she had stopped, and chose not to ask.
+>
+> 他明白她的停顿不是拒绝，而是不确定。至于她为什么停，他仍然不知道，也选择不追问。
+
+The narrator labels uncertainty, uses explanatory antithesis, and closes the beat with a verdict.
+
+叙述者替不确定命名，使用解释性对举，并以判决式句子封闭节拍。
+
+**Stronger / 较强**
+
+> She caught his wrist and pressed his hand back to the same place. Her fingers were cool; the muscles inside her thigh had not relaxed. He waited until her grip loosened, then resumed more slowly.
+>
+> 她抓住他的手腕，把他的手重新按回原处。她的指尖有些凉，大腿内侧仍绷着。他等她的手松开，才以更慢的速度重新开始。
+
+Specific signals and local consequence preserve uncertainty without explaining it.
+
+具体信号与局部后果保留了不确定，不需要解释。
+
+## Detail Without Inventory / 细节而非清单
+
+**Weak / 弱**
+
+> He felt her warm skin, soft hair, rapid breathing, tight muscles, damp palms, and trembling legs.
+
+Many details are listed, but none changes the scene.
+
+细节很多，却没有一项改变场景。
+
+**Stronger / 较强**
+
+> Her damp palm slipped on his shoulder. She caught herself against the headboard, laughed once through her breath, and shifted her knee before trying again.
+>
+> 她潮湿的掌心在他肩上滑了一下，只好撑住床头。她夹着喘息笑了一声，先把膝盖挪稳，才重新试了一次。
+
+A few details create movement, timing, and consequence.
+
+少量细节产生了动作、时间与后果。
+
 ## Compact Diagnostic / 精简诊断
 
 When revising, ask:
@@ -139,4 +250,9 @@ When revising, ask:
 - Are observation, inference, and fact distinct? / 观察、推断与事实是否区分？
 - Does direct vocabulary carry perception and consequence rather than inventory? / 直接词汇是否承载感知与后果，而非清单？
 - Is practical failure allowed to remain ordinary? / 现实失败是否被允许保持普通？
+- Does the viewpoint have character-specific sensation, thought, feeling, and uncertainty? / 视角人物是否拥有符合自身的感觉、念头、情绪与不确定？
+- Do paragraphs contain coherent experiences rather than isolated sentence units? / 段落是否承载完整经验，而不是孤立句子单元？
+- Has evaluator language and framework terminology stayed outside the fiction? / 评估语言与框架术语是否留在正文之外？
+- Do selected details change perception, comfort, pace, choice, or the next action? / 被选择的细节是否改变感知、舒适度、节奏、选择或下一步行动？
+- Has the narrator avoided forced conclusions, repeated declarations of uncertainty, and explanatory `not X but Y` / `不是 X，而是 Y` constructions? / 叙述者是否避免了强制定论、反复宣布不确定，以及解释性的 `not X but Y` / `不是 X，而是 Y` 结构？
 - Has the framework disappeared into the scene? / 框架是否已经消失在正文中？

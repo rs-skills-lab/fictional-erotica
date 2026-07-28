@@ -9,6 +9,12 @@ speculative_anatomy:
   enabled: false
 ```
 
+## Embodied Coherence / 具身一致性
+
+Nonhuman form does not remove established anatomy, capacity, physical topology, communication patterns, or character identity. Treat unusual morphology as a body plan to be tracked, not a licence for spatial or causal incoherence.
+
+非人形态不取消既定身体结构、行动能力、物理拓扑、交流方式或人物身份。应把异常形态作为需要追踪的身体图谱，而不是取消空间与因果一致性的许可。
+
 ## Body Plan / 身体图谱
 
 Establish only relevant fields:

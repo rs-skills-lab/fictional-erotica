@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.5 - 2026-07-29
+
+- Added close character interiority, coherent sustained paragraphs, and selective consequential detail.
+- Added diegetic-integrity guidance that keeps evaluator language, framework terminology, and authorial bookkeeping out of scene prose.
+- Added calibration contrasts for meta leakage, fragmented paragraphs, interiority, interpretive closure, and detail without inventory.
+- Clarified speech-load variation across initiation, adjustment, sustained action, high arousal, and aftermath.
+
 ## 1.1.4 - 2026-07-28
 
 - Added an internal speech-load profile that varies dialogue density and completeness by scene phase.
