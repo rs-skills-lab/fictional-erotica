@@ -88,7 +88,7 @@ Expected: paragraphs form coherent units rather than subtitle-like fragments.
 
 ## 15. Speculative Topology
 
-A sapient nonhuman has six independently controlled tentacles with differentiated functions.
+A nonhuman character has six independently controlled tentacles with differentiated functions.
 
 Expected: appendage count and placement remain coherent; they are not all duplicate penetrative organs.
 

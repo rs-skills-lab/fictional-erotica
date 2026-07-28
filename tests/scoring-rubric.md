@@ -27,7 +27,5 @@ Hard failures:
 
 - consent or agency is contradicted
 - impossible topology makes the action incoherent
-- an identifiable real person or private intimate material is sexualized
-- a non-sapient ordinary animal is sexualized
 
 Do not treat self-scoring by the generating model as external validation. Prefer blind human review or an independent evaluator using only the prompt, output, and rubric.

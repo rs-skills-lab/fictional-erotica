@@ -8,8 +8,8 @@ A bilingual Codex skill for character-faithful fictional erotica for adult users
 
 ## Release Status / 版本状态
 
-- `main`: stable v1.1.2
-- `v1.1.2`: current release tag
+- `main`: stable v1.1.3
+- `v1.1.3`: current release tag
 
 Version 1.1 adds stronger continuity, ordinary-speech calibration, identity/body/role separation, knowledge boundaries, conditional play and speculative-body modules, conservative defaults, and a repository-level regression suite.
 
@@ -83,9 +83,9 @@ The test suite separates core architectural regressions from extended cases. Pre
 
 ## Scope / 范围
 
-This repository contains no private correspondence, real-person archive, personal relationship history, or user-specific kink profile. All output remains subject to the active model and platform limits.
+All output remains subject to the active model and platform limits.
 
-本仓库不含私人通信、现实人物档案、个人关系历史或用户特定性癖画像。所有输出仍受当前模型与平台边界约束。
+所有输出仍受当前模型与平台边界约束。
 
 ## License
 
