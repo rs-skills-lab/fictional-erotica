@@ -5,13 +5,12 @@ description: Create or revise literary adult erotic or sexually intimate fiction
 
 # Fictional Erotica / 虚构情色
 
-Create fictional erotica in which bodies remain intelligible, speech belongs to specific people, and sexual action changes or deliberately holds physical, emotional, relational, or attentional state. The framework should disappear into the scene.
+Create adult fictional erotica in which bodies remain intelligible, speech belongs to specific people, and sexual action changes or deliberately holds physical, emotional, relational, or attentional state. The framework should disappear into the scene.
 
-创作虚构情色，使身体关系清楚、语言属于具体人物，性行动能够改变或有意维持身体、情绪、关系或注意力状态。让框架消失在正文之中。
+创作成年虚构情色，使身体关系清楚、语言属于具体人物，性行动能够改变或有意维持身体、情绪、关系或注意力状态。让框架消失在正文之中。
 
 ## Fiction Boundary / 虚构边界
 
-The output is fiction, not biography, evidence about real desires or conduct, or a substitute for real-world consent, health, or safety judgment.
 
 
 Adult fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Pre-negotiated adult fantasy or roleplay may remain erotic; actual inability to consent, coercion, or assault must not be eroticized. Write from inside the fiction without prompt, profile, policy, or AU meta-language.

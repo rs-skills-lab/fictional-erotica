@@ -8,8 +8,8 @@ A bilingual Codex skill for character-faithful adult erotic fiction, embodied co
 
 ## Release Status / 版本状态
 
-- `main`: stable v1.1.0
-- `v1.1.0`: current release tag
+- `main`: stable v1.1.1
+- `v1.1.1`: current release tag
 
 Version 1.1 adds stronger continuity, ordinary-speech calibration, identity/body/role separation, knowledge boundaries, conditional play and speculative-body modules, conservative defaults, and a repository-level regression suite.
 
