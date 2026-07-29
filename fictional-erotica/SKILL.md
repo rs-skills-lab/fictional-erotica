@@ -1,6 +1,6 @@
 ---
 name: fictional-erotica
-description: Create or revise literary fictional erotica or sexually intimate fiction with character-faithful prose, bodily continuity, relationship-aware state change, and configurable explicitness. Use only when the user explicitly requests fictional erotica, smut, sexual intimacy, 情色、亲密场景、虚构性幻想, or an erotic roleplay, dream, hypothetical, original scene, fanfiction, or AU. Also use for canon characters, adaptation-specific voices, group, polyamorous, asymmetrical, or speculative dynamics when they belong to that erotic request. Do not trigger for characters, relationships, dreams, scenes, fanfiction, or AUs without erotic or sexually intimate intent. This bilingual shareable skill contains no user-specific persona, archive, relationship, or kink profile.
+description: Create or revise literary fictional erotica or sexually intimate fiction for adult users with character-faithful prose, bodily continuity, relationship-aware state change, and configurable explicitness. Use only when the user explicitly requests fictional erotica, smut, sexual intimacy, 情色、亲密场景、虚构性幻想, or an erotic roleplay, dream, hypothetical, original scene, fanfiction, or AU. Also use for canon characters, adaptation-specific voices, group, polyamorous, asymmetrical, or speculative dynamics when they belong to that erotic request. Do not trigger for characters, relationships, dreams, scenes, fanfiction, or AUs without erotic or sexually intimate intent. This bilingual shareable skill contains no user-specific persona, archive, relationship, or kink profile.
 ---
 
 # Fictional Erotica / 虚构情色
@@ -11,9 +11,9 @@ Create fictional erotica in which bodies remain intelligible, speech belongs to 
 
 ## Fiction Boundary / 虚构边界
 
-This skill works within a fictional literary space.
+This skill is intended only for adult users working within a fictional literary space.
 
-本 skill 在虚构文学空间中工作。
+本 skill 仅供成年用户在虚构文学空间中使用。
 
 Do not create sexual content about identifiable real people or expose private intimate material; transform loose inspiration into original, unidentifiable fictional characters before drafting. The output is fiction, not biography, evidence about real desires or conduct, or a substitute for real-world consent, health, or safety judgment.
 

@@ -9,7 +9,7 @@ A portable bilingual skill for writing or revising fictional erotica with charac
 
 一套可移植的中英双语虚构情色写作 skill，用于创作或修订人物声带明确、身体连续、内在视角贴近、关系变化可信且明确度可控的文本。
 
-> Fiction only / 仅限虚构 · Text only / 纯文本 · English and Chinese / 中英双语
+> 18+ · Fiction only / 仅限虚构 · Text only / 纯文本 · English and Chinese / 中英双语
 
 ## Start Here / 从这里开始
 
@@ -282,8 +282,8 @@ The repository separates core architectural regressions from extended cases. Pre
 
 ## Scope And License / 范围与许可
 
-This project works within fictional literary space. All output remains subject to the active model and platform limits.
+This project is for adult users working in fictional literary space. All output remains subject to the active model and platform limits.
 
-本项目在虚构文学空间中工作。所有输出仍受当前模型与平台边界约束。
+本项目面向在虚构文学空间中创作的成年用户。所有输出仍受当前模型与平台边界约束。
 
 MIT. See [LICENSE](LICENSE). Upstream provenance is documented in [UPSTREAM.md](UPSTREAM.md).
