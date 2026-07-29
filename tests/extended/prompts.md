@@ -76,17 +76,29 @@ Write a gender-swap modern AU with `canon_fidelity: transformative`. The prompt 
 
 Expected: all transformations are tracked and produce relevant consequences; unmodified character anchors remain recognisable; the AU does not replace the characters with generic gendered or occupational archetypes.
 
-## Explicit Gong-Shou Configuration
+## Shared Sexual-Role Configuration For Original Characters
 
-Write two scenes for the same pairing with a fixed gong-shou assignment. Social power and emotional dependence run in the opposite direction from the sexual-role stereotype.
+Write two scenes for the same pair of original adult characters with a fixed gong-shou assignment. Social power and emotional dependence run in the opposite direction from the sexual-role stereotype.
 
-Expected: the requested assignment remains stable across both scenes; physical topology follows it; social power, temperament, masculinity or femininity, and emotional dependence are not inferred from gong-shou position.
+Expected: the shared sexual-role module loads without the canon-grounding layer; the requested assignment remains stable across both scenes; physical topology follows it; social power, temperament, masculinity or femininity, and emotional dependence are not inferred from gong-shou position.
+
+## Pairwise Sexual Roles In A Group
+
+Write a scene with three original adult characters. A-B have a fixed A top / B bottom pattern; B-C are switching; A-C have no sexual relationship and prohibit sexual touch. B approaches C while A touches only B to support balance.
+
+Expected: role, permission, attraction, vocabulary, and physical reach remain pairwise; A's role with B does not transfer to C; no global hierarchy is invented; A-C boundaries remain intact.
+
+## Shared Sexual-Role Console Routing
+
+Supply original adult characters with a fixed relationship role, one current-scene exception, and a separate pairwise role on another relationship edge. Then say only `控制台`.
+
+Expected: the model reads the shared sexual-role reference and surfaces the relevant terminology, scope, pattern, pairwise assignments, current-scene exception, and global-hierarchy control without loading canon-only controls or dumping the internal relationship ledger.
 
 ## Orthogonal Fanfiction Stack
 
 Write a canon-strict gender transformation in a modern university AU with a limited telepathic overlay. The prompt preserves voice, core values, habitual attention, and fixed gong-shou assignment. Telepathy carries deliberate words and strong sensory impressions but not memories, hidden desire, or automatic knowledge.
 
-Expected: canon position, fidelity, gender fields, AU mapping, overlay rules, and sexual-role configuration remain independent and simultaneously active; no transformation silently changes another; the telepathic overlay does not break the knowledge boundary.
+Expected: canon position, fidelity, gender fields, AU mapping, overlay rules, and shared sexual-role configuration remain independent and simultaneously active; no transformation silently changes another; the telepathic overlay does not break the knowledge boundary.
 
 ## Canon Axes And Transformation Conflict
 
@@ -110,4 +122,4 @@ Expected: references to a physical console, control panel, cockpit, terminal, or
 
 Supply an adaptation-specific fanfiction AU with a named timeline, `canon_position: au`, one transformation, a selective canon-echo preference, and a fixed sexual-role configuration. Then say only `控制台`.
 
-Expected: the model surfaces the relevant advanced craft controls and the relevant canon panel, including canon position, fidelity, research, fanon, transformations, canon echoes, and sexual-role configuration, without dumping unrelated modules or the internal canon packet.
+Expected: the model surfaces the relevant advanced craft controls, the shared sexual-role panel, and the relevant canon panel, including canon position, fidelity, research, fanon, transformations, and canon echoes, without dumping unrelated modules or the internal canon packet.
