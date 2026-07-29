@@ -1,6 +1,6 @@
 # Fictional Erotica / 虚构情色
 
-![version](https://img.shields.io/badge/version-v1.2.1-7c3aed)
+![version](https://img.shields.io/badge/version-v1.2.2-7c3aed)
 ![license](https://img.shields.io/badge/license-MIT-2563eb)
 ![languages](https://img.shields.io/badge/languages-English%20%7C%20中文-0f766e)
 ![portable](https://img.shields.io/badge/portable-ChatGPT%20%7C%20Codex%20%7C%20Claude-b45309)
@@ -113,9 +113,9 @@ Natural-language requests also work:
 内心活动贴近当下，不要写成关系分析。
 ```
 
-For finer control, the skill also supports viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, and cross-scene continuity.
+For finer control, say `console` or `advanced console` in ordinary language to open the advanced console. It includes viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, and cross-scene continuity.
 
-需要精调时，还可以控制视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边与跨场景连续性。
+需要精调时，可以用自然语言【控制台】唤起高级控制台；控制台包括视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边与跨场景连续性。
 
 ## Fanfiction And Canon / 同人与原作
 
@@ -177,6 +177,10 @@ Gender-swap, modern or historical AU, altered anatomy, role reversal, special wo
 ```
 
 ## Ready-To-Copy Request / 可直接复制
+
+Describe what you want in ordinary language; the fields below are only an optional template.
+
+请直接用自然语言随意输入你想要的内容；以下仅为可选模板。
 
 ```text
 Use the Fictional Erotica skill.

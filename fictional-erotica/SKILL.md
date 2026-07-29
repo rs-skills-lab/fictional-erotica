@@ -43,6 +43,10 @@ Use controls internally. Do not print profiles, worksheets, state tables, inferr
 
 所有控制项均在内部使用。除非用户要求，不要输出人物档案、工作表、状态表、推断设置或技法标题。
 
+If the user says `console`, `advanced console`, `控制台`, `打开控制台`, or equivalent wording, surface an advanced console for viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, and cross-scene continuity. Show only controls relevant to the current request unless the user asks for the full console. Do not require console use before drafting.
+
+用户说 `控制台`、`打开控制台`、`console`、`advanced console` 或同义表达时，展示高级控制台。高级控制台包括视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边与跨场景连续性。除非用户要求完整控制台，只展示与当前请求相关的控制项；创作前不得强制用户使用控制台。
+
 ## Core Controls / 核心控制
 
 Infer omitted values from explicit user instructions, established character facts, relationship history, current conditions, and genre context, in that order.
