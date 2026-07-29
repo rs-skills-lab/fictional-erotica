@@ -102,11 +102,22 @@ interaction_profile:
   attention_style:
   performance_anxiety:
   response_to_mistakes:
+
+sexual_role_configuration:
+  terminology: top-bottom | gong-shou | giver-receiver | custom
+  assignments:
+  pattern: fixed | switching | fluid | scene-specific
+  current_scene:
+  exceptions:
 ```
 
 Preferred anatomical vocabulary may change with partner, arousal, public or private context, or power play. Direct words are not automatically affirming; clinical words are not automatically neutral.
 
 偏好的身体词汇可以随伴侣、唤起、公开或私下情境、权力游戏变化。直接词不自动肯定身份，临床词也不自动中性。
+
+Treat requested top/bottom, gong/shou, giver/receiver, switching, fluid, or scene-specific configurations as consequential facts. Preserve explicit assignments. Do not derive sexual role from gender, anatomy, stature, temperament, social power, or relationship dependence, and do not derive those traits from sexual role. In group scenes, track roles by participant and relationship edge.
+
+把用户指定的 top/bottom、攻受、给予/接受、可逆、流动或本场角色视为会产生后果的事实，并保持明确设定。不得由性别、身体、身高、性格、社会权力或关系依赖推导攻受，也不得由攻受反推这些属性。多人场景按参与者与关系边追踪角色。
 
 Treat sexual response as contextual tendency rather than performance specification:
 

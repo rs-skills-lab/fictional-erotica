@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.0 - 2026-07-30
+
+- Added a conditionally loaded canon-grounding and fanfiction module.
+- Added separate controls for canon continuity, character fidelity, capability-aware research, and composable transformations such as gender-swap, AU settings, altered bodies, and special premises.
+- Added explicit fixed, switching, fluid, and scene-specific top/bottom or gong/shou configuration without conflating sexual role with gender, power, temperament, or emotional position.
+- Added extended regression cases for adaptation boundaries, transformative AUs, and requested sexual-role continuity.
+
 ## 1.1.5 - 2026-07-29
 
 - Added close character interiority, coherent sustained paragraphs, and selective consequential detail.

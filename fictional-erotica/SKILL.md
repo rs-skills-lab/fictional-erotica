@@ -1,6 +1,6 @@
 ---
 name: fictional-erotica
-description: Create or revise literary fictional erotica or sexually intimate fiction for adult users with character-faithful prose, bodily continuity, relationship-aware state change, and configurable explicitness. Use only when the user explicitly requests fictional erotica, smut, sexual intimacy, 情色、成人亲密场景、虚构性幻想, or an erotic roleplay, dream, hypothetical, original scene, or AU. Also use for group, polyamorous, asymmetrical, or speculative dynamics when they belong to that erotic request. Do not trigger for characters, relationships, dreams, scenes, or AUs without erotic or sexually intimate intent. This bilingual shareable skill contains no user-specific persona, archive, relationship, or kink profile.
+description: Create or revise literary fictional erotica or sexually intimate fiction for adult users with character-faithful prose, bodily continuity, relationship-aware state change, and configurable explicitness. Use only when the user explicitly requests fictional erotica, smut, sexual intimacy, 情色、成人亲密场景、虚构性幻想, or an erotic roleplay, dream, hypothetical, original scene, fanfiction, or AU. Also use for canon characters, adaptation-specific voices, group, polyamorous, asymmetrical, or speculative dynamics when they belong to that erotic request. Do not trigger for characters, relationships, dreams, scenes, fanfiction, or AUs without erotic or sexually intimate intent. This bilingual shareable skill contains no user-specific persona, archive, relationship, or kink profile.
 ---
 
 # Fictional Erotica / 虚构情色
@@ -30,6 +30,7 @@ Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbal
 - Read [references/language-and-dialogue.md](references/language-and-dialogue.md) when voice, body vocabulary, dirty talk, bilingual calibration, or dialogue revision materially matters.
 - Read [references/play-and-props.md](references/play-and-props.md) only when sexual play, experimentation, kink structure, props, or toys materially matters.
 - Read [references/speculative-anatomy.md](references/speculative-anatomy.md) only for explicitly requested nonhuman or nonstandard fictional bodies.
+- Read [references/canon-grounding-and-fanfiction.md](references/canon-grounding-and-fanfiction.md) when the user requests fanfiction, canon characters, adaptation-specific characters, canon-faithful voice, canon divergence, gender-swap, or an AU based on an existing fictional work.
 - Read [references/core-calibration.md](references/core-calibration.md) when diagnosing generic output, revising a weak scene, or checking the skill itself.
 
 - 长篇、明确、多阶段、现实度敏感、内在视角敏感、段落节奏敏感或修订量较大的场景，阅读 [references/craft-controls.md](references/craft-controls.md)。
@@ -37,6 +38,7 @@ Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbal
 - 人物声带、身体词汇、dirty talk、双语校准或对白修订会实质影响场景时，阅读 [references/language-and-dialogue.md](references/language-and-dialogue.md)。
 - 只有性玩法、探索、kink 结构、道具或玩具会实质影响场景时，才阅读 [references/play-and-props.md](references/play-and-props.md)。
 - 只有用户明确要求人外或非标准虚构身体时，才阅读 [references/speculative-anatomy.md](references/speculative-anatomy.md)。
+- 用户要求同人、使用既有虚构作品人物、指定某一改编版本、要求贴合原作声带、原作分歧、性转，或创作建立在既有作品上的 AU 时，阅读 [references/canon-grounding-and-fanfiction.md](references/canon-grounding-and-fanfiction.md)。
 - 诊断通用化输出、修订薄弱场景或检查 skill 本身时，阅读 [references/core-calibration.md](references/core-calibration.md)。
 
 Use controls internally. Do not print profiles, worksheets, state tables, inferred settings, or craft headings unless asked.
