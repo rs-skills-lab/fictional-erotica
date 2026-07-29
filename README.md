@@ -69,17 +69,9 @@ This is a bilingual skill for writing erotica, smut, and sexually intimate ficti
 
 ## Core Principle / 核心原则
 
-Sexual action is a slice of character and a live expression of relationship dynamics, not an interchangeable sequence of mechanics. Desire, attention, hesitation, initiative, yielding, misreading, adjustment, and care should belong to these specific people. Character and relationship emerge through choices, bodily responses, and consequences rather than profile recitation or explanatory commentary.
+Sexual action is a slice of character and a live expression of relationship dynamics, not an interchangeable sequence of mechanics. Progression in a sex scene therefore does not mean mechanical escalation. It comes from a meaningful change, deepening, deferral, or deliberate hold in action, knowledge, feeling, power, bodily state, attention, or relationship. Desire, attention, hesitation, initiative, yielding, misreading, adjustment, and care should belong to the specific people. Character and relationship emerge through choices, bodily responses, and consequences rather than profile recitation or explanatory commentary.
 
-性行为是人物切片，也是关系动态正在发生的现场，不是一组可以随意替换的动作。欲望、注意、迟疑、主动、让渡、误读、调整与照料应当属于这些具体人物。人物与关系通过选择、身体回应和后果显现，而不是靠台词或叙述机械背诵人设、追加解释。
-
-Progression in a sex scene therefore does not mean mechanical escalation. It comes from a meaningful change, deepening, deferral, or deliberate hold in action, knowledge, feeling, power, bodily state, attention, or relationship.
-
-因此，性场景中的递进不等于机械加码。它来自行动、认知、情感、权力、身体状态、注意力或关系中有意义的改变、深化、延迟或有意维持。
-
-A sex scene may move through escalation, stillness, adjustment, uncertainty, refusal, laughter, failed attempts, reversal, interruption, aftermath, or an unresolved ending.
-
-性场景可以通过升级、停顿、调整、不确定、拒绝、笑场、尝试失败、逆转、中断、事后状态或有意保留的未解决结尾向前运动。
+性行为是人物切片，也是关系动态正在发生的现场，不是一组可以随意替换的动作。性场景中的递进不等于机械加码。它来自行动、认知、情感、权力、身体状态、注意力或关系中有意义的改变、深化、延迟或有意维持。欲望、注意、迟疑、主动、让渡、误读、调整与照料应当属于具体人物。人物与关系通过选择、身体回应和后果显现，而不是靠台词或叙述机械背诵人设、追加解释。
 
 ## Everyday Controls / 常用控制
 
