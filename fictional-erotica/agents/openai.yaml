@@ -1,4 +1,4 @@
 interface:
   display_name: "Fictional Erotica / 虚构情色"
-  short_description: "Character-faithful fictional erotica for adult users / 面向成年用户、忠于人物的虚构情色"
-  default_prompt: "Use $fictional-erotica to create or revise fictional erotica for adult users from the supplied characters, relationship stage, and scene request. Infer omitted controls without printing them; preserve ordinary character speech, bodily continuity, relationship asymmetry, and knowledge boundaries. / 使用 $fictional-erotica，根据所提供的人物、关系阶段与场景要求，为成年用户创作或修订虚构情色。在不输出设置表的前提下推断遗漏控制；保持普通人物语言、身体连续性、关系不对称与认知边界。"
+  short_description: "Character-faithful fictional erotica / 忠于人物的虚构情色"
+  default_prompt: "Use $fictional-erotica to create or revise fictional erotica from the supplied characters, relationship stage, and scene request. Infer omitted controls without printing them; preserve ordinary character speech, bodily continuity, relationship asymmetry, and knowledge boundaries. / 使用 $fictional-erotica，根据所提供的人物、关系阶段与场景要求创作或修订虚构情色。在不输出设置表的前提下推断遗漏控制；保持普通人物语言、身体连续性、关系不对称与认知边界。"
