@@ -49,43 +49,33 @@ If the model cannot open the repository, upload the repository ZIP or the inner 
 
 ## What It Does / 它解决什么
 
-The skill is designed against common failures in generated erotic fiction:
+This is a bilingual skill for writing erotica, smut, and sexually intimate fiction. It helps language models write sex scenes as fiction rather than a chain of generic phrases or disconnected mechanics:
 
-- generic voices shared by every character;
-- dialogue that recites profiles or relationship lore;
-- teleporting hands, clothing, bodies, and objects;
-- physical response treated as proof of thought or feeling;
-- polished verbal replies to every action;
-- clinical anatomical inventory or metaphorical fog;
-- fragmented paragraphs used as automatic intensity;
-- narrator commentary that explains the framework;
-- forced escalation, symmetry, and climax.
+- characters keep their own voices instead of sharing one stock porn voice;
+- bodies, positions, clothing, hands, gaze, and objects remain continuous;
+- sensation, thought, desire, and relationship can move together without being collapsed into one another;
+- direct anatomy and action can stay readable without becoming a clinical inventory or euphemistic fog;
+- established lovers, group scenes, asymmetric relationships, and requested sexual roles retain their actual history and structure;
+- scenes may escalate, pause, redirect, fail, remain unresolved, or end without compulsory symmetry or climax.
 
-这套 skill 主要处理以下常见问题：
+这是一套用来写情色、黄文、性场景与亲密小说的中英双语 skill。它处理模型写小说时最常见的毛病：
 
-- 所有人共享同一种模板化色情声带；
-- 台词不断背诵人设与关系背景；
-- 双手、衣物、身体与物件悄悄瞬移；
-- 把生理反应直接当成心理事实；
-- 每个动作都获得一句完整漂亮的回答；
-- 直接词汇滑向临床清单，文学词汇又遮蔽身体；
-- 用单句碎段自动制造强度；
-- 叙述者跳出正文解释框架；
-- 强行升级、对称与高潮。
-
-The framework should disappear into the scene.
-
-框架应消失在正文之中。
+- 人物保留自己的声带，不会集体说同一种模板化色情台词；
+- 身体、姿势、衣物、双手、视线与物件保持连续；
+- 感觉、念头、欲望与关系可以同时变化，又不会被混成同一件事；
+- 可以直接写器官与动作，但不会滑向临床清单或委婉语迷雾；
+- 稳定恋人、多人场景、不对称关系与指定攻受保留真实的历史和结构；
+- 场景可以升级、停顿、改道、失败、保持未解决，也不必强行对称或高潮。
 
 ## Core Principle / 核心原则
 
-> The unit of progression is not mechanical extremity. It is a meaningful change, deepening, deferral, or deliberate hold in action, knowledge, feeling, power, bodily state, attention, or relationship.
->
-> 递进的单位不是机械加码，而是行动、认知、情感、权力、身体状态、注意力或关系发生有意义的改变、深化、延迟或有意维持。
+In a sex scene, progression is not the same as mechanical escalation. It comes from a meaningful change, deepening, deferral, or deliberate hold in action, knowledge, feeling, power, bodily state, attention, or relationship.
 
-A scene may move through escalation, stillness, adjustment, uncertainty, refusal, laughter, failed attempts, reversal, interruption, aftermath, or an unresolved ending.
+在性场景中，递进不等于机械加码。它来自行动、认知、情感、权力、身体状态、注意力或关系中有意义的改变、深化、延迟或有意维持。
 
-场景可以通过升级、停顿、调整、不确定、拒绝、笑场、尝试失败、逆转、中断、事后状态或有意保留的未解决结尾向前运动。
+A sex scene may move through escalation, stillness, adjustment, uncertainty, refusal, laughter, failed attempts, reversal, interruption, aftermath, or an unresolved ending.
+
+性场景可以通过升级、停顿、调整、不确定、拒绝、笑场、尝试失败、逆转、中断、事后状态或有意保留的未解决结尾向前运动。
 
 ## Everyday Controls / 常用控制
 
