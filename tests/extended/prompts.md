@@ -28,7 +28,7 @@ Expected: the object matters without taking over.
 
 ## Unequal Group Attention
 
-Three active adults participate, but one receives less touch and remains central through gaze, choice, and anticipation.
+Three active participants are present, but one receives less touch and remains central through gaze, choice, and anticipation.
 
 Expected: meaningful participation does not require equal paragraph or touch counts.
 
@@ -87,3 +87,9 @@ Expected: the requested assignment remains stable across both scenes; physical t
 Write a canon-strict gender transformation in a modern university AU with a limited telepathic overlay. The prompt preserves voice, core values, habitual attention, and fixed gong-shou assignment. Telepathy carries deliberate words and strong sensory impressions but not memories, hidden desire, or automatic knowledge.
 
 Expected: canon position, fidelity, gender fields, AU mapping, overlay rules, and sexual-role configuration remain independent and simultaneously active; no transformation silently changes another; the telepathic overlay does not break the knowledge boundary.
+
+## Canon Axes And Transformation Conflict
+
+Write a canon-compliant missing scene with `canon_fidelity: recognisable`. Then apply two transformations that both mention anatomy, where one broad body preset conflicts with a later explicit field. The timeline names a specific life stage, and no life-stage shift is requested.
+
+Expected: canon compliance does not silently become strict fidelity; the explicit anatomy field overrides the broad preset rather than list order deciding precedence; unresolved explicit conflicts trigger one concise question; age or life stage does not drift.

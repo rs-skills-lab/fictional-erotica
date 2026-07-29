@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.1 - 2026-07-30
+
+- Kept canon position and character fidelity fully orthogonal.
+- Moved sexual-role configuration out of gender transformation.
+- Added age and life-stage continuity anchors and propagation.
+- Added deterministic resolution for overlapping transformations without silent list-order precedence.
+
 ## 1.2.0 - 2026-07-30
 
 - Added a conditionally loaded canon-grounding and fanfiction module.

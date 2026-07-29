@@ -1,6 +1,6 @@
 # Fictional Erotica / 虚构情色
 
-![version](https://img.shields.io/badge/version-v1.2.0-7c3aed)
+![version](https://img.shields.io/badge/version-v1.2.1-7c3aed)
 ![license](https://img.shields.io/badge/license-MIT-2563eb)
 ![languages](https://img.shields.io/badge/languages-English%20%7C%20中文-0f766e)
 ![portable](https://img.shields.io/badge/portable-ChatGPT%20%7C%20Codex%20%7C%20Claude-b45309)
@@ -9,7 +9,7 @@ A portable bilingual skill for writing or revising fictional erotica with charac
 
 一套可移植的中英双语虚构情色写作 skill，用于创作或修订人物声带明确、身体连续、内在视角贴近、关系变化可信且明确度可控的文本。
 
-> 18+ · Fiction only / 仅限虚构 · Text only / 纯文本 · English and Chinese / 中英双语
+> Fiction only / 仅限虚构 · Text only / 纯文本 · English and Chinese / 中英双语
 
 ## Start Here / 从这里开始
 
@@ -144,6 +144,7 @@ Gender-swap, modern or historical AU, altered anatomy, role reversal, special wo
 - 作品：
 - 改编或版本：
 - 时间线：
+- 年龄或人生阶段：
 - 剧透范围：
 - canon_position: canon-compliant | canon-adjacent | canon-divergent | au | free-remix
 - canon_fidelity: recognisable | strict | transformative
@@ -281,8 +282,8 @@ The repository separates core architectural regressions from extended cases. Pre
 
 ## Scope And License / 范围与许可
 
-This project is for adult users working in fictional literary space. All output remains subject to the active model and platform limits.
+This project works within fictional literary space. All output remains subject to the active model and platform limits.
 
-本项目面向在虚构文学空间中创作的成年用户。所有输出仍受当前模型与平台边界约束。
+本项目在虚构文学空间中工作。所有输出仍受当前模型与平台边界约束。
 
 MIT. See [LICENSE](LICENSE). Upstream provenance is documented in [UPSTREAM.md](UPSTREAM.md).

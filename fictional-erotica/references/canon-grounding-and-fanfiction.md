@@ -28,6 +28,7 @@ canon_target:
   medium:
   adaptation:
   timeline_anchor:
+  age_or_life_stage_at_timeline:
   spoiler_scope:
   relationship_stage:
 ```
@@ -72,9 +73,9 @@ Default to `canon-compliant` unless the user supplies a different position. Cros
 - `strict`: obey the selected timeline, knowledge state, world rules, and behavioural logic closely / 严格服从指定时间线、知识状态、世界规则与行为逻辑。
 - `transformative`: allow major changes while deriving the changed person from canon structure / 允许大幅改写，但改变后的人物仍从原作结构生长出来。
 
-Map `canon-compliant`, `原作向`, `贴原作`, `不要 OOC`, or equivalent wording to `strict` when no conflicting instruction exists. Use `transformative` for large AUs when the user still wants the characters to feel like themselves.
+Map `canon-compliant` only to `canon_position: canon-compliant`. Map `原作向`, `贴原作`, `不要 OOC`, or equivalent character-fidelity wording to `canon_fidelity: strict` when no conflicting instruction exists. Use `transformative` for large AUs when the user still wants the characters to feel like themselves.
 
-用户说“原作向”“贴原作”“不要 OOC”等且没有冲突要求时，映射为 `strict`。大型 AU 仍要求人物像本人时，使用 `transformative`。
+`canon-compliant` 只映射为 `canon_position: canon-compliant`。用户说“原作向”“贴原作”“不要 OOC”等人物贴合要求且没有冲突时，映射为 `canon_fidelity: strict`。大型 AU 仍要求人物像本人时，使用 `transformative`。
 
 ### Transformations / 具体改写
 
@@ -115,6 +116,21 @@ Treat every explicit transformation as an override. Preserve all relevant canon 
 
 将每项明确改写视为 override；未被改写的相关原作锚点继续有效。只有当改写会影响身体、知识、语言、社会位置、欲望、关系或世界逻辑时，才展开其后果。不得因更换设定或身体就把人物内核替换成类型模板。
 
+Resolve overlapping transformations explicitly:
+
+明确处理相互重叠的改写：
+
+```yaml
+transformation_resolution:
+  specific_field_overrides_broad_preset: true
+  explicit_user_order_is_not_silent_precedence: true
+  unresolved_conflict: ask
+```
+
+A specific field overrides a broad preset. Later list position does not silently erase an earlier transformation. If two explicit changes cannot coexist and the user's intent does not resolve them, ask one concise question.
+
+具体字段优先于宽泛 preset。列表中后写的 transformation 不得静默吃掉前面的改写。两个明确变化无法共存且用户意图不能消解冲突时，简短追问一次。
+
 For gender transformation, separate fields rather than using a magic toggle:
 
 性转必须拆分字段，不能作为自动联动一切的魔法按钮：
@@ -128,7 +144,6 @@ gender_transform:
   social_experience:
   sexuality:
   relationship_role:
-  sexual_role_configuration:
 ```
 
 Changing one field does not automatically change the others. In particular, do not automatically feminise presentation, soften temperament, reverse attraction, or reassign top/bottom or gong/shou.
@@ -323,10 +338,12 @@ Do not turn the packet into exposition. Voice should emerge through syntax, ordi
 Before delivery, silently check:
 
 - the selected work, adaptation, timeline, and spoiler scope are coherent;
+- age or life stage at the selected timeline does not change silently;
 - canon fact, inference, ambiguity, and transformation remain distinct;
 - no adaptation is blended unless a named crossover or fusion transformation is explicit;
 - unmodified canon anchors survive the AU;
 - transformations produce relevant consequences without replacing the character;
+- any life-stage shift propagates where relevant to knowledge, body, social role, and relationship history;
 - special overlays preserve explicit limits and do not create automatic mind-reading or knowledge;
 - requested fixed, switching, fluid, or scene-specific sexual roles remain consistent;
 - power, personality, gender, anatomy, and sexual role are not collapsed;
@@ -337,10 +354,12 @@ Before delivery, silently check:
 交付前静默检查：
 
 - 指定作品、改编、时间线与剧透范围彼此一致；
+- 指定时间线中的年龄或人生阶段没有静默漂移；
 - 原作事实、推断、歧义与改写保持分离；
 - 除非明确加入列明来源的 crossover 或 fusion transformation，不同改编版本没有被混合；
 - AU 中未被改写的原作锚点仍然有效；
 - 改写产生必要后果，但没有替换人物内核；
+- life-stage shift 在相关处传递到知识、身体、社会角色与关系历史；
 - 特殊 overlays 保持明确边界，没有制造自动读心或越界知识；
 - 指定的固定、可逆、流动或本场攻受保持一致；
 - 权力、性格、性别、身体与行为角色没有混为一谈；
