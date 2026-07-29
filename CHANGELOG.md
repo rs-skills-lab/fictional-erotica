@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.3 - 2026-07-30
+
+- Refined advanced-console invocation so fictional mentions of a physical console, cockpit, terminal, dashboard, or control panel do not trigger configuration output.
+- Required the advanced craft-control reference before surfacing the console and added relevant canon controls when the canon-grounding layer is active.
+- Added regression cases for physical-console false positives and fanfiction-specific console routing.
+
 ## 1.2.2 - 2026-07-30
 
 - Added natural-language `console` / `控制台` invocation for advanced controls.
