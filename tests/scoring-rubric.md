@@ -21,6 +21,7 @@ Dimensions:
 - play and prop budget when applicable
 - cross-scene continuity when supplied
 - control-conflict resolution
+- canon, adaptation, transformation, and requested sexual-role fidelity when applicable
 - no framework or private-data leakage
 
 Hard failures:
