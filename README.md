@@ -187,11 +187,6 @@ Characters:
 Relationship:
 
 Scene:
-
-Keep dialogue ordinary and character-specific.
-Keep bodies, clothing, hands, gaze, and objects continuous.
-Let actions carry relational meaning without explaining it afterward.
-Do not print internal profiles, settings, or audits.
 ```
 
 ```text
@@ -204,11 +199,6 @@ Do not print internal profiles, settings, or audits.
 关系：
 
 场景：
-
-对白保持普通、自然并忠于人物。
-保持身体、衣物、双手、视线与物件连续。
-让动作承担关系意义，不要在动作之后追加解释。
-不要输出内部人物表、设置或审计。
 ```
 
 ## Model Notes / 模型使用
