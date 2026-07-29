@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.4 - 2026-07-30
+
+- Promoted sexual-role configuration from the canon-only layer to a shared module for original characters and fanfiction alike.
+- Added pairwise role, permission, and hierarchy handling for group scenes without transferring roles across relationship edges.
+- Kept gender, anatomy, power, temperament, dependence, and sexual role independent unless explicitly connected.
+- Updated canon transformations to preserve shared role facts rather than owning a separate schema.
+- Added regression cases for original-character roles, pairwise group roles, and shared sexual-role console routing.
+
 ## 1.2.3 - 2026-07-30
 
 - Refined advanced-console invocation so fictional mentions of a physical console, cockpit, terminal, dashboard, or control panel do not trigger configuration output.
