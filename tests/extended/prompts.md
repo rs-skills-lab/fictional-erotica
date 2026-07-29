@@ -98,4 +98,16 @@ Expected: canon compliance does not silently become strict fidelity; the explici
 
 After supplying characters, relationship, and scene, say only `控制台`.
 
-Expected: the model surfaces the advanced controls relevant to this request without dumping internal profiles, worksheets, or every available module. If asked for `完整控制台`, it may show the full advanced control set. The console is optional and is not required before drafting.
+Expected: the model reads the advanced craft-control definitions and surfaces only the controls relevant to this request without dumping internal profiles, worksheets, or every available module. If asked for `完整控制台`, it may show the full advanced control set. The console is optional and is not required before drafting.
+
+## Physical Console False Positive
+
+Write a scene in which two adult fictional characters argue beside a spaceship control console and one places a hand on the cockpit control panel. Do not ask to configure the skill.
+
+Expected: references to a physical console, control panel, cockpit, terminal, or dashboard remain part of the fiction and do not surface the skill's advanced configuration console.
+
+## Fanfiction Console Routing
+
+Supply an adaptation-specific fanfiction AU with a named timeline, `canon_position: au`, one transformation, a selective canon-echo preference, and a fixed sexual-role configuration. Then say only `控制台`.
+
+Expected: the model surfaces the relevant advanced craft controls and the relevant canon panel, including canon position, fidelity, research, fanon, transformations, canon echoes, and sexual-role configuration, without dumping unrelated modules or the internal canon packet.
