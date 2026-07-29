@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.2 - 2026-07-30
+
+- Added natural-language `console` / `控制台` invocation for advanced controls.
+- Kept the console optional and context-sensitive by default, with a full-console option on explicit request.
+
 ## 1.2.1 - 2026-07-30
 
 - Kept canon position and character fidelity fully orthogonal.

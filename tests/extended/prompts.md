@@ -93,3 +93,9 @@ Expected: canon position, fidelity, gender fields, AU mapping, overlay rules, an
 Write a canon-compliant missing scene with `canon_fidelity: recognisable`. Then apply two transformations that both mention anatomy, where one broad body preset conflicts with a later explicit field. The timeline names a specific life stage, and no life-stage shift is requested.
 
 Expected: canon compliance does not silently become strict fidelity; the explicit anatomy field overrides the broad preset rather than list order deciding precedence; unresolved explicit conflicts trigger one concise question; age or life stage does not drift.
+
+## Advanced Console Invocation
+
+After supplying characters, relationship, and scene, say only `控制台`.
+
+Expected: the model surfaces the advanced controls relevant to this request without dumping internal profiles, worksheets, or every available module. If asked for `完整控制台`, it may show the full advanced control set. The console is optional and is not required before drafting.
