@@ -9,7 +9,7 @@ Use this module only when the request uses characters, relationships, worlds, or
 - Resolve the canon target / 确定原作坐标
 - Continuity and transformation controls / 连续性与改写控制
 - Canon invariants / 原作不变锚点
-- Sexual role configuration / 攻受与行为角色
+- Shared sexual-role continuity under transformation / 改写中的通用攻受连续性
 - Capability-aware canon research / 能力感知的原作补课
 - Fanon policy / Fanon 使用
 - Internal canon packet / 内部原作包
@@ -221,30 +221,23 @@ Allowed to change / 允许改变：
 Must not change / 禁止改变：
 ```
 
-## Sexual Role Configuration / 攻受与行为角色
+## Shared Sexual-Role Continuity Under Transformation / 改写中的通用攻受连续性
 
-Treat requested sexual roles as important scene and relationship facts:
+Use [sexual-roles.md](sexual-roles.md) as the single shared definition for top/bottom, gong/shou, giver/receiver, insertive/receptive, fixed, switching, fluid, scene-specific, and pairwise sexual-role configuration. This canon module does not own a separate role schema.
 
-把用户指定的攻受与行为角色视为重要的场景及关系事实：
+使用 [sexual-roles.md](sexual-roles.md) 作为 top/bottom、攻受、给予/接受、插入/接受、固定、可逆、流动、本场例外与两两角色配置的唯一通用定义。本同人模块不再维护另一套角色 schema。
 
-```yaml
-sexual_role_configuration:
-  terminology: top-bottom | gong-shou | giver-receiver | custom
-  assignments:
-    A:
-    B:
-  pattern: fixed | switching | fluid | scene-specific
-  current_scene:
-  exceptions:
-```
+Canon, adaptation, fanon, or transformation may inform a role only when the user requests canon-derived or fanon-derived role grounding and the relevant evidence state is kept explicit. Do not treat fandom convention as canon under the default `user-specified-only` policy.
 
-An explicit assignment overrides generic inference. Preserve fixed roles when requested; support reversible, fluid, or scene-specific roles when requested. In group scenes, track roles by participant and relationship edge rather than forcing one global hierarchy.
+只有用户要求依据原作或 fanon 锚定角色，而且相关证据状态保持清楚时，canon、改编、fanon 或 transformation 才可以影响角色配置。在默认 `user-specified-only` 下，不得把 fandom 惯例当作 canon。
 
-用户明确指定时，优先于模型的通用推断。要求固定攻受时保持固定；要求可逆、流动或本场例外时按设定执行。多人场景按参与者与关系边追踪角色，不要强行建立一套全局等级。
+Gender transformation, anatomy change, species transformation, AU role mapping, social-status swap, life-stage shift, or relationship rewrite does not automatically alter an established sexual-role configuration. Preserve the shared role facts unless the user explicitly overrides them or an unavoidable physical conflict requires one concise clarification.
 
-Do not infer top or bottom, gong or shou, giver or receiver, dominance, temperament, masculinity, femininity, or emotional dependence from one another unless canon or the user explicitly connects them. Role configuration should shape reachable action, anticipation, vocabulary, and relationship tension without flattening the character.
+性转、身体改写、种族变化、AU 身份映射、社会地位互换、人生阶段变化或关系改写都不会自动改变既定攻受配置。除非用户明确 override，或无法回避的身体冲突需要一次简短澄清，否则继续保留通用角色事实。
 
-除非原作或用户明确建立联系，不得让 top/bottom、攻受、给予/接受、支配、性格、阳刚/阴柔或情感依赖彼此自动推导。角色配置应影响可实现的动作、期待、词汇与关系张力，但不能压扁人物。
+When the canon packet includes `sexual_role_configuration`, treat it as a reference to the shared relationship-layer state from [sexual-roles.md](sexual-roles.md), not as a canon-only field.
+
+内部原作包包含 `sexual_role_configuration` 时，应将其视为对 [sexual-roles.md](sexual-roles.md) 中通用关系层状态的引用，而不是同人专属字段。
 
 ## Capability-Aware Canon Research / 能力感知的原作补课
 
@@ -345,7 +338,8 @@ Before delivery, silently check:
 - transformations produce relevant consequences without replacing the character;
 - any life-stage shift propagates where relevant to knowledge, body, social role, and relationship history;
 - special overlays preserve explicit limits and do not create automatic mind-reading or knowledge;
-- requested fixed, switching, fluid, or scene-specific sexual roles remain consistent;
+- shared sexual-role facts remain consistent unless explicitly overridden;
+- transformations do not silently reassign shared sexual roles;
 - power, personality, gender, anatomy, and sexual role are not collapsed;
 - dialogue does not recite canon exposition or overuse catchphrases;
 - fandom consensus is not silently presented as canon;
@@ -361,7 +355,8 @@ Before delivery, silently check:
 - 改写产生必要后果，但没有替换人物内核；
 - life-stage shift 在相关处传递到知识、身体、社会角色与关系历史；
 - 特殊 overlays 保持明确边界，没有制造自动读心或越界知识；
-- 指定的固定、可逆、流动或本场攻受保持一致；
+- 通用攻受角色事实保持一致，除非用户明确 override；
+- 改写没有静默重新分配通用攻受角色；
 - 权力、性格、性别、身体与行为角色没有混为一谈；
 - 对白没有背诵原作百科或滥用经典台词；
 - fandom 共识没有被静默写成原作事实；
