@@ -25,7 +25,7 @@ Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbal
 
 ## Route References / 参考文件路由
 
-- Read [references/craft-controls.md](references/craft-controls.md) for long, explicit, multi-beat, realism-sensitive, interiority-sensitive, cadence-sensitive, or revision-heavy scenes.
+- Read [references/craft-controls.md](references/craft-controls.md) when the user requests the advanced skill console, or for long, explicit, multi-beat, realism-sensitive, interiority-sensitive, cadence-sensitive, or revision-heavy scenes.
 - Read [references/persona-and-continuity.md](references/persona-and-continuity.md) when the user supplies personae, requests recurring characters, includes more than two participants, or needs body-, identity-, relationship-, or cross-scene continuity.
 - Read [references/language-and-dialogue.md](references/language-and-dialogue.md) when voice, body vocabulary, dirty talk, bilingual calibration, or dialogue revision materially matters.
 - Read [references/play-and-props.md](references/play-and-props.md) only when sexual play, experimentation, kink structure, props, or toys materially matters.
@@ -33,7 +33,7 @@ Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbal
 - Read [references/canon-grounding-and-fanfiction.md](references/canon-grounding-and-fanfiction.md) when the user requests fanfiction, canon characters, adaptation-specific characters, canon-faithful voice, canon divergence, gender-swap, or an AU based on an existing fictional work.
 - Read [references/core-calibration.md](references/core-calibration.md) when diagnosing generic output, revising a weak scene, or checking the skill itself.
 
-- 长篇、明确、多阶段、现实度敏感、内在视角敏感、段落节奏敏感或修订量较大的场景，阅读 [references/craft-controls.md](references/craft-controls.md)。
+- 用户要求打开高级 skill 控制台，或场景较长、明确、多阶段、现实度敏感、内在视角敏感、段落节奏敏感或修订量较大时，阅读 [references/craft-controls.md](references/craft-controls.md)。
 - 用户提供人设、要求可复用人物、包含两人以上参与者，或需要身体、身份、关系与跨场景连续性时，阅读 [references/persona-and-continuity.md](references/persona-and-continuity.md)。
 - 人物声带、身体词汇、dirty talk、双语校准或对白修订会实质影响场景时，阅读 [references/language-and-dialogue.md](references/language-and-dialogue.md)。
 - 只有性玩法、探索、kink 结构、道具或玩具会实质影响场景时，才阅读 [references/play-and-props.md](references/play-and-props.md)。
@@ -45,9 +45,13 @@ Use controls internally. Do not print profiles, worksheets, state tables, inferr
 
 所有控制项均在内部使用。除非用户要求，不要输出人物档案、工作表、状态表、推断设置或技法标题。
 
-If the user says `console`, `advanced console`, `控制台`, `打开控制台`, or equivalent wording, surface an advanced console for viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, and cross-scene continuity. Show only controls relevant to the current request unless the user asks for the full console. Do not require console use before drafting.
+If the user explicitly asks to open, inspect, or configure the skill's console, or replies with only `console`, `advanced console`, `控制台`, `打开控制台`, or equivalent wording in a configuration context, surface an advanced console. Do not trigger merely because fictional content mentions a physical console, control panel, cockpit, terminal, dashboard, or similar object.
 
-用户说 `控制台`、`打开控制台`、`console`、`advanced console` 或同义表达时，展示高级控制台。高级控制台包括视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边与跨场景连续性。除非用户要求完整控制台，只展示与当前请求相关的控制项；创作前不得强制用户使用控制台。
+用户明确要求打开、查看或配置 skill 控制台，或在配置语境中单独回复 `控制台`、`打开控制台`、`console`、`advanced console` 或同义表达时，展示高级控制台。场景正文仅提及实体控制台、控制面板、驾驶舱、终端、仪表盘或类似物件时，不得触发。
+
+Before surfacing the console, read [references/craft-controls.md](references/craft-controls.md). Include viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, and cross-scene continuity only as relevant to the current request. If the canon-grounding layer is active, also include only the relevant canon-position, canon-fidelity, research, fanon, transformation, canon-echo, and sexual-role controls. Show the full console only when explicitly requested. Do not require console use before drafting.
+
+展示控制台前，阅读 [references/craft-controls.md](references/craft-controls.md)。只按当前请求需要展示视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边与跨场景连续性。原作锚定层已经启用时，再加入当前相关的原作位置、原作贴合度、补课、fanon、改写层、原作回声与攻受或行为角色控制。只有用户明确要求时才展示完整控制台；创作前不得强制用户使用控制台。
 
 ## Core Controls / 核心控制
 
