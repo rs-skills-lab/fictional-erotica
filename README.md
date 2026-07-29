@@ -28,7 +28,6 @@ Do not print internal profiles, controls, or audits.
 Characters:
 Relationship:
 Scene:
-Controls:
 ```
 
 ```text
@@ -42,7 +41,6 @@ https://github.com/rs-skills-lab/fictional-erotica
 人物：
 关系：
 场景：
-控制：
 ```
 
 If the model cannot open the repository, upload the repository ZIP or the inner `fictional-erotica/` folder and give the same instruction.
@@ -190,17 +188,6 @@ Relationship:
 
 Scene:
 
-Controls:
-- explicitness: open-door
-- embodied_realism: selective
-- lexical_register: direct-neutral
-- dirty_talk: low
-- scene_focus: balanced
-- viewpoint: A
-- interiority: deep
-- paragraph_cadence: sustained
-- speech_load: sparse-to-moderate
-
 Keep dialogue ordinary and character-specific.
 Keep bodies, clothing, hands, gaze, and objects continuous.
 Let actions carry relational meaning without explaining it afterward.
@@ -217,17 +204,6 @@ Do not print internal profiles, settings, or audits.
 关系：
 
 场景：
-
-控制：
-- 页面明确度：open-door
-- 具身现实度：selective
-- 词汇语域：direct-neutral
-- dirty talk：low
-- 场景重心：balanced
-- 视角：A
-- 内心深度：deep
-- 段落节奏：sustained
-- 对白负载：sparse-to-moderate
 
 对白保持普通、自然并忠于人物。
 保持身体、衣物、双手、视线与物件连续。
