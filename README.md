@@ -1,6 +1,6 @@
 # Fictional Erotica / 虚构情色
 
-![version](https://img.shields.io/badge/version-v1.2.2-7c3aed)
+![version](https://img.shields.io/badge/version-v1.2.4-7c3aed)
 ![license](https://img.shields.io/badge/license-MIT-2563eb)
 ![languages](https://img.shields.io/badge/languages-English%20%7C%20中文-0f766e)
 ![portable](https://img.shields.io/badge/portable-ChatGPT%20%7C%20Codex%20%7C%20Claude-b45309)
@@ -99,9 +99,19 @@ Natural-language requests also work:
 内心活动贴近当下，不要写成关系分析。
 ```
 
-For finer control, say `console` or `advanced console` in ordinary language to open the advanced console. It includes viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, and cross-scene continuity.
+For finer control, say `console` or `advanced console` in ordinary language to open the advanced console. It includes viewpoint, camera distance, interiority, action and descriptive granularity, interpretive restraint, paragraph cadence, speech load, sensory weight, temporal profile, climax structure, mess visibility, play, props, relationship edges, sexual roles, and cross-scene continuity.
 
-需要精调时，可以用自然语言【控制台】唤起高级控制台；控制台包括视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边与跨场景连续性。
+需要精调时，可以用自然语言【控制台】唤起高级控制台；控制台包括视角、镜头距离、内心深度、动作与描写颗粒度、解读克制、段落节奏、对白负载、感官权重、时间分配、高潮结构、狼藉可见度、玩法、道具、关系边、攻受与行为角色，以及跨场景连续性。
+
+## Sexual Roles / 攻受与行为角色
+
+Sexual-role controls are shared across original characters and fanfiction. They support fixed, switching, fluid, and scene-specific patterns, as well as pairwise configurations for group scenes. Explicit assignments override stereotype-based inference.
+
+攻受与行为角色控制同时适用于原创人物和同人角色。它支持固定、可逆、流动、本场例外，以及多人场景中的两两关系配置。用户明确指定时，优先于模型按刻板印象推断。
+
+A role on one relationship edge does not transfer to another. Top/bottom, gong/shou, giver/receiver, or insertive/receptive roles do not automatically determine dominance, social power, temperament, masculinity or femininity, emotional dependence, gender, anatomy, or orientation.
+
+一条关系边上的角色不会自动转移到另一条关系边。top/bottom、攻受、给予/接受或插入/接受角色，也不会自动决定支配关系、社会权力、性格、阳刚或阴柔、情感依赖、性别、身体结构或取向。
 
 ## Fanfiction And Canon / 同人与原作
 
@@ -119,9 +129,9 @@ Two independent controls prevent common confusion:
 - `canon_position`：原作兼容、原作留白、原作分歧、AU 或自由重构；
 - `canon_fidelity`：宽松、可辨认、严格贴合或从原作结构生长出的变形。
 
-Gender-swap, modern or historical AU, altered anatomy, role reversal, special world rules, and other premises form a composable transformation stack. Each layer states what it changes, preserves, and causes. Top/bottom or 攻受 can be fixed, reversible, fluid, or scene-specific; explicit assignments override stereotype-based inference.
+Gender-swap, modern or historical AU, altered anatomy, role reversal, special world rules, and other premises form a composable transformation stack. Each layer states what it changes, preserves, and causes. Shared sexual-role settings remain independent of that stack and do not change automatically under gender, anatomy, species, status, or AU transformations.
 
-性转、现代或历史 AU、身体改写、身份互换、特殊世界规则等可以在 `transformations` 中叠加。攻受可以固定、可逆、流动或仅本场例外；用户明确指定时优先于模型按刻板印象推断。
+性转、现代或历史 AU、身体改写、身份互换、特殊世界规则等可以在 `transformations` 中叠加。每一层都说明改变什么、保留什么、产生什么后果。通用攻受与行为角色配置独立于这一改写栈，不会因为性别、身体、种族、身份或 AU 变化而自动改变。
 
 ```text
 这是使用既有虚构作品人物的同人创作。
@@ -233,13 +243,14 @@ The inner skill uses progressive disclosure:
 - `SKILL.md` contains the core contract, routing, controls, scene movement, and final audit;
 - `craft-controls.md` handles detailed scene construction and revision;
 - `persona-and-continuity.md` handles personae, bodies, groups, relationship edges, and cross-scene state;
+- `sexual-roles.md` handles shared dyadic and pairwise sexual-role configuration for original characters and fanfiction;
 - `language-and-dialogue.md` handles ordinary speech, sexual speech, body vocabulary, and bilingual calibration;
 - `play-and-props.md` loads only when experimentation, kink structure, props, or toys matter;
 - `speculative-anatomy.md` loads only for requested nonstandard fictional bodies;
-- `canon-grounding-and-fanfiction.md` loads only for canon characters, adaptations, fanfiction, or canon-based AUs;
+- `canon-grounding-and-fanfiction.md` loads only for canon characters, adaptations, fanfiction, or canon-based AUs, and preserves shared role facts under transformation;
 - `core-calibration.md` diagnoses generic or structurally weak output.
 
-内层 skill 使用渐进加载：核心规则常驻，人物连续性、语言、玩法、人外身体与校准模块只在相关请求中读取。
+内层 skill 使用渐进加载：核心规则常驻；人物连续性、通用攻受与行为角色、语言、玩法、人外身体、原作锚定与校准模块只在相关请求中读取。
 
 ## Repository Structure / 仓库结构
 
