@@ -283,8 +283,8 @@ The repository separates core architectural regressions from extended cases. Pre
 
 ## Scope And License / 范围与许可
 
-This project is for adult users working in fictional literary space. All output remains subject to the active model and platform limits.
+This project is for adult users working in fictional literary space.
 
-本项目面向在虚构文学空间中创作的成年用户。所有输出仍受当前模型与平台边界约束。
+本项目面向在虚构文学空间中创作的成年用户。
 
 MIT. See [LICENSE](LICENSE). Upstream provenance is documented in [UPSTREAM.md](UPSTREAM.md).
