@@ -40,7 +40,7 @@ Specific constraints narrow broad presets rather than being averaged away. If eq
 | `closed` | desire and consequence on-page; sexual action off-page / 欲望与后果在页面内，性行动在页面外 |
 | `sensual` | touch and arousal present; mechanics limited / 呈现触碰与唤起，身体机制有限 |
 | `open-door` | acts and bodies clear; sensation and emotion share focus / 行为与身体清楚，感觉与情绪共同成为焦点 |
-| `explicit` | concrete anatomy and actions sustained where permitted / 在允许范围内持续呈现具体器官与动作 |
+| `explicit` | concrete anatomy and actions sustained at that level / 按该级别持续呈现具体器官与动作 |
 
 ### Scene Focus / 场景重心
 
