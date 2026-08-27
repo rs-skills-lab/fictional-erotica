@@ -125,9 +125,9 @@ Narrator and character vocabulary may differ. Vocabulary may shift with partner,
 
 叙述者与人物可以使用不同词汇。词汇可以随伴侣、唤起、公开或私下情境、权力游戏、冲突或事后状态变化。直白不是固定词表。
 
-Avoid clinical inventory, coy euphemism that hides anatomy, and imported type-language that does not fit the speaker. Use direct anatomical names when requested and permitted, but connect them to perception, choice, and consequence.
+Avoid clinical inventory, coy euphemism that hides anatomy, and imported type-language that does not fit the speaker. Use direct anatomical names when requested, but connect them to perception, choice, and consequence.
 
-避免临床清单、遮蔽身体结构的羞怯委婉语，以及不符合人物的外来类型套语。用户要求且允许时可直接使用器官名称，但应使其连接感知、选择与后果。
+避免临床清单、遮蔽身体结构的羞怯委婉语，以及不符合人物的外来类型套语。用户要求时可直接使用器官名称，但应使其连接感知、选择与后果。
 
 ## Chinese And English Calibration / 中英文校准
 

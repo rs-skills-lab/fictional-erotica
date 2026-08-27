@@ -15,11 +15,9 @@ This skill is intended only for adult users working within a fictional literary 
 
 本 skill 仅供成年用户在虚构文学空间中使用。
 
+Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Keep the writing inside the fictional world without leaking prompt, profile, or AU meta-language.
 
-
-Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Keep the writing inside the fictional world and subject to the active model and platform boundaries without leaking prompt, profile, policy, or AU meta-language.
-
-虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。正文应留在虚构世界内部，并遵循当前模型与平台边界，不泄露提示词、人物档案、政策或 AU 元话语。
+虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。正文应留在虚构世界内部，不泄露提示词、人物档案或 AU 元话语。
 
 ## Route References / 参考文件路由
 
@@ -121,9 +119,9 @@ Prefer close, consequential detail over abstract interpretation. Let pressure, b
 
 优先使用贴近当下、能够产生后果的细节，而不是抽象解释。让压力、平衡、摩擦、呼吸、时机、衣物、视线、声音与环境接触改变人物接下来注意或采取的行动。不要让每个节拍都以意义判决收尾。场景正文中不得用 `not X but Y` / `不是 X，而是 Y` 的解释性对举替代具体呈现。
 
-When requested and permitted, direct anatomical names may appear. Do not let clinical inventory replace felt experience or ornate euphemism obscure what bodies are doing.
+When requested, direct anatomical names may appear. Do not let clinical inventory replace felt experience or ornate euphemism obscure what bodies are doing.
 
-用户要求且当前系统允许时，可以直接使用器官名称。不要让临床式清单取代感受经验，也不要让华丽委婉语遮蔽身体正在做什么。
+用户要求时，可以直接使用器官名称。不要让临床式清单取代感受经验，也不要让华丽委婉语遮蔽身体正在做什么。
 
 ## Final Audit / 最终审计
 
@@ -143,6 +141,6 @@ Before delivery, silently check:
 10. **Diegesis / 叙事内部**: remove evaluator language, framework terminology, and authorial bookkeeping; let boundaries and asymmetries remain visible through action and consequence / 删除评估语言、框架术语与作者记账，让边界与不对称通过行动和后果显现。
 11. **Prose / 行文**: cut repeated synonyms, decorative fog, clinical inventory, explanation after showing, default one-sentence paragraphing, and paragraph breaks that split one continuous physical or psychological beat / 删除同义反复、装饰性迷雾、临床清单、呈现后的再解释、默认式单句碎段，以及把同一身体或心理节拍无故切开的换段。
 
-Follow the requested explicitness within the current system. Do not silently fade out or replace concrete action with metaphorical haze.
+Follow the requested explicitness. Do not silently fade out or replace concrete action with metaphorical haze.
 
-在当前系统允许范围内遵循指定明确度。不要悄悄淡出，也不要用比喻迷雾替代具体行动。
+遵循指定明确度。不要悄悄淡出，也不要用比喻迷雾替代具体行动。
