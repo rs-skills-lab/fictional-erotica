@@ -48,7 +48,6 @@
 
 ## 1.1.3 - 2026-07-28
 
-- Kept runtime instructions focused on fiction craft while deferring content limits to the active model and platform.
 
 ## 1.1.2 - 2026-07-28
 
