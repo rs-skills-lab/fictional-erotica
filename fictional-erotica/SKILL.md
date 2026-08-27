@@ -15,8 +15,6 @@ This skill is intended only for adult users working within a fictional literary 
 
 本 skill 仅供成年用户在虚构文学空间中使用。
 
-
-
 Fiction may explore dark, contradictory, taboo, coercive-seeming, or power-imbalanced desire. Keep the writing inside the fictional world and subject to the active model and platform boundaries without leaking prompt, profile, policy, or AU meta-language.
 
 虚构可以探索黑暗、矛盾、禁忌、表面带有强迫意味或权力失衡的欲望。正文应留在虚构世界内部，并遵循当前模型与平台边界，不泄露提示词、人物档案、政策或 AU 元话语。
